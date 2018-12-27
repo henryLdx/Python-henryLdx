@@ -1,0 +1,3568 @@
+   3)   0.725 us    |  alloc_pages_current();
+   1)   0.664 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>  jbd2/sd-330  
+ ------------------------------------------
+
+   1)   0.650 us    |  alloc_pages_current();
+   1)   0.372 us    |  alloc_pages_current();
+   3)   0.802 us    |  alloc_pages_current();
+   3)   0.825 us    |  alloc_pages_current();
+   3)   1.360 us    |  alloc_pages_current();
+   3)   0.764 us    |  alloc_pages_current();
+   3)   0.862 us    |  alloc_pages_current();
+   3)   0.830 us    |  alloc_pages_current();
+   3)   0.777 us    |  alloc_pages_current();
+   3)   1.120 us    |  alloc_pages_current();
+   3)   0.909 us    |  alloc_pages_current();
+   3)   0.796 us    |  alloc_pages_current();
+   3)   1.017 us    |  alloc_pages_current();
+   3)   0.707 us    |  alloc_pages_current();
+   3)   1.027 us    |  alloc_pages_current();
+   3)   0.974 us    |  alloc_pages_current();
+   3)   0.903 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  jbd2/sd-330   =>  kworker-8716 
+ ------------------------------------------
+
+   1)   1.306 us    |  alloc_pages_current();
+   3)   0.932 us    |  alloc_pages_current();
+   3)   0.918 us    |  alloc_pages_current();
+   3)   0.421 us    |  alloc_pages_current();
+   3)   1.043 us    |  alloc_pages_current();
+   3)   0.912 us    |  alloc_pages_current();
+   3)   1.198 us    |  alloc_pages_current();
+   3)   1.033 us    |  alloc_pages_current();
+   3)   0.976 us    |  alloc_pages_current();
+   3)   0.690 us    |  alloc_pages_current();
+   3)   0.826 us    |  alloc_pages_current();
+   3)   0.923 us    |  alloc_pages_current();
+   3)   1.002 us    |  alloc_pages_current();
+   3)   1.430 us    |  alloc_pages_current();
+   3)   0.929 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8716  =>   bash-8571   
+ ------------------------------------------
+
+   1)   2.261 us    |  alloc_pages_current();
+   1)   1.185 us    |  alloc_pages_current();
+   1)   0.727 us    |  alloc_pages_current();
+   1)   0.637 us    |  alloc_pages_current();
+   1)   0.743 us    |  alloc_pages_current();
+   1)   1.122 us    |  alloc_pages_current();
+   1)   0.816 us    |  alloc_pages_current();
+   1)   0.634 us    |  alloc_pages_current();
+   1)   0.687 us    |  alloc_pages_current();
+   1)   0.810 us    |  alloc_pages_current();
+   1)   0.649 us    |  alloc_pages_current();
+   1)   0.891 us    |  alloc_pages_current();
+   1)   0.768 us    |  alloc_pages_current();
+   1)   0.745 us    |  alloc_pages_current();
+   1)   0.777 us    |  alloc_pages_current();
+   1)   0.729 us    |  alloc_pages_current();
+   1)   0.818 us    |  alloc_pages_current();
+   1)   0.712 us    |  alloc_pages_current();
+   0)   2.189 us    |  alloc_pages_current();
+   0)   0.921 us    |  alloc_pages_current();
+   0)   1.951 us    |  alloc_pages_current();
+   0)   0.864 us    |  alloc_pages_current();
+   0)   0.682 us    |  alloc_pages_current();
+   0)   0.877 us    |  alloc_pages_current();
+   0)   0.662 us    |  alloc_pages_current();
+   0)   0.341 us    |  alloc_pages_current();
+   0)   1.008 us    |  alloc_pages_current();
+   0)   0.719 us    |  alloc_pages_current();
+   0)   0.327 us    |  alloc_pages_current();
+   0)   0.947 us    |  alloc_pages_current();
+   0)   0.748 us    |  alloc_pages_current();
+   0)   0.733 us    |  alloc_pages_current();
+   0)   0.791 us    |  alloc_pages_current();
+   0)   0.831 us    |  alloc_pages_current();
+   0)   0.730 us    |  alloc_pages_current();
+   0)   0.995 us    |  alloc_pages_current();
+   0)   1.019 us    |  alloc_pages_current();
+   0)   1.586 us    |  alloc_pages_current();
+   0)   0.928 us    |  alloc_pages_current();
+   0)   0.402 us    |  alloc_pages_current();
+   0)   0.949 us    |  alloc_pages_current();
+   0)   5.318 us    |  alloc_pages_current();
+   0)   0.618 us    |  alloc_pages_current();
+   0)   2.622 us    |  alloc_pages_current();
+   0)   0.314 us    |  alloc_pages_current();
+   0)   0.104 us    |  alloc_pages_current();
+   0)   0.109 us    |  alloc_pages_current();
+   2)   0.966 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   3.912 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  compiz-2038  
+ ------------------------------------------
+
+   3)   1.106 us    |  alloc_pages_current();
+   3)   0.527 us    |  alloc_pages_current();
+   3)   0.676 us    |  alloc_pages_current();
+   3)   0.437 us    |  alloc_pages_current();
+   3)   0.587 us    |  alloc_pages_current();
+   3)   0.491 us    |  alloc_pages_current();
+   3)   0.619 us    |  alloc_pages_current();
+   3)   0.460 us    |  alloc_pages_current();
+   3)   0.571 us    |  alloc_pages_current();
+   3)   0.579 us    |  alloc_pages_current();
+   3)   0.630 us    |  alloc_pages_current();
+   3)   0.632 us    |  alloc_pages_current();
+   1)   0.726 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8716 
+ ------------------------------------------
+
+   1)   1.622 us    |  alloc_pages_current();
+   1)   0.914 us    |  alloc_pages_current();
+   1)   0.780 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8716  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.685 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>  kworker-8716 
+ ------------------------------------------
+
+   1)   1.421 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8716  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.452 us    |  alloc_pages_current();
+   1)   0.831 us    |  alloc_pages_current();
+   1)   1.218 us    |  alloc_pages_current();
+   1)   0.849 us    |  alloc_pages_current();
+   1)   0.745 us    |  alloc_pages_current();
+   1)   1.089 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   1.186 us    |  alloc_pages_current();
+   3)   0.991 us    |  alloc_pages_current();
+   3)   0.817 us    |  alloc_pages_current();
+   3)   0.333 us    |  alloc_pages_current();
+   3)   0.486 us    |  alloc_pages_current();
+   3)   0.331 us    |  alloc_pages_current();
+   3)   0.897 us    |  alloc_pages_current();
+   3)   0.736 us    |  alloc_pages_current();
+   3)   1.046 us    |  alloc_pages_current();
+   3)   0.710 us    |  alloc_pages_current();
+   3)   1.060 us    |  alloc_pages_current();
+   3)   0.794 us    |  alloc_pages_current();
+   3)   0.810 us    |  alloc_pages_current();
+   3)   0.606 us    |  alloc_pages_current();
+   3)   0.944 us    |  alloc_pages_current();
+   3)   0.950 us    |  alloc_pages_current();
+   3)   0.907 us    |  alloc_pages_current();
+   3)   0.397 us    |  alloc_pages_current();
+   3)   0.419 us    |  alloc_pages_current();
+   3)   0.378 us    |  alloc_pages_current();
+   1)   0.578 us    |  alloc_pages_current();
+   1)   2.723 us    |  alloc_pages_current();
+   1)   0.918 us    |  alloc_pages_current();
+   1)   1.145 us    |  alloc_pages_current();
+   1)   0.927 us    |  alloc_pages_current();
+   1)   1.322 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8716 
+ ------------------------------------------
+
+   1)   1.106 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8716  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.275 us    |  alloc_pages_current();
+   1)   0.763 us    |  alloc_pages_current();
+   1)   0.600 us    |  alloc_pages_current();
+   1)   0.921 us    |  alloc_pages_current();
+   1)   0.833 us    |  alloc_pages_current();
+   1)   0.819 us    |  alloc_pages_current();
+   1)   1.024 us    |  alloc_pages_current();
+   1)   0.953 us    |  alloc_pages_current();
+   2)   2.776 us    |  alloc_pages_current();
+   2)   1.104 us    |  alloc_pages_current();
+   2)   1.293 us    |  alloc_pages_current();
+   2)   0.761 us    |  alloc_pages_current();
+   2)   0.774 us    |  alloc_pages_current();
+   2)   0.773 us    |  alloc_pages_current();
+   2)   0.629 us    |  alloc_pages_current();
+   2)   0.709 us    |  alloc_pages_current();
+   2)   0.816 us    |  alloc_pages_current();
+   2)   0.729 us    |  alloc_pages_current();
+   2)   0.676 us    |  alloc_pages_current();
+   2)   0.774 us    |  alloc_pages_current();
+   2)   0.835 us    |  alloc_pages_current();
+   2)   0.576 us    |  alloc_pages_current();
+   2)   5.000 us    |  alloc_pages_current();
+   2)   0.791 us    |  alloc_pages_current();
+   2)   0.710 us    |  alloc_pages_current();
+   2)   0.717 us    |  alloc_pages_current();
+   2)   1.259 us    |  alloc_pages_current();
+   2)   0.788 us    |  alloc_pages_current();
+   2)   0.901 us    |  alloc_pages_current();
+   2)   0.702 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   tail-8855    =>   cron-8856   
+ ------------------------------------------
+
+   0)   1.284 us    |  alloc_pages_current();
+   0)   0.935 us    |  alloc_pages_current();
+   0)   1.083 us    |  alloc_pages_current();
+   0)   0.888 us    |  alloc_pages_current();
+   0)   0.895 us    |  alloc_pages_current();
+   0)   1.155 us    |  alloc_pages_current();
+   0)   0.410 us    |  alloc_pages_current();
+   0)   0.931 us    |  alloc_pages_current();
+   0)   1.195 us    |  alloc_pages_current();
+   0)   1.144 us    |  alloc_pages_current();
+   0)   1.214 us    |  alloc_pages_current();
+   0)   0.820 us    |  alloc_pages_current();
+   0)   0.664 us    |  alloc_pages_current();
+   0)   0.859 us    |  alloc_pages_current();
+   0)   1.013 us    |  alloc_pages_current();
+   0)   1.138 us    |  alloc_pages_current();
+   0)   0.842 us    |  alloc_pages_current();
+   0)   0.404 us    |  alloc_pages_current();
+   0)   0.710 us    |  alloc_pages_current();
+   0)   2.112 us    |  alloc_pages_current();
+   0)   0.777 us    |  alloc_pages_current();
+   0)   0.740 us    |  alloc_pages_current();
+   0)   0.826 us    |  alloc_pages_current();
+   0)   0.825 us    |  alloc_pages_current();
+   0)   0.746 us    |  alloc_pages_current();
+   0)   0.940 us    |  alloc_pages_current();
+   0)   0.709 us    |  alloc_pages_current();
+   0)   0.743 us    |  alloc_pages_current();
+   0)   0.786 us    |  alloc_pages_current();
+   0)   0.765 us    |  alloc_pages_current();
+   0)   0.771 us    |  alloc_pages_current();
+   0)   0.691 us    |  alloc_pages_current();
+   0)   0.567 us    |  alloc_pages_current();
+   0)   0.630 us    |  alloc_pages_current();
+   0)   0.613 us    |  alloc_pages_current();
+   0)   0.868 us    |  alloc_pages_current();
+   0)   0.660 us    |  alloc_pages_current();
+   0)   0.583 us    |  alloc_pages_current();
+   0)   0.691 us    |  alloc_pages_current();
+   0)   0.663 us    |  alloc_pages_current();
+   0)   0.653 us    |  alloc_pages_current();
+   0)   0.640 us    |  alloc_pages_current();
+   0)   0.571 us    |  alloc_pages_current();
+   0)   0.632 us    |  alloc_pages_current();
+   0)   0.768 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)    cron-935    =>  systemd-365  
+ ------------------------------------------
+
+   2)   0.869 us    |  alloc_pages_current();
+   0)   0.678 us    |  alloc_pages_current();
+   0)   0.741 us    |  alloc_pages_current();
+   2)   0.256 us    |  alloc_pages_current();
+   0)   0.811 us    |  alloc_pages_current();
+   0)   0.847 us    |  alloc_pages_current();
+   0)   0.586 us    |  alloc_pages_current();
+   0)   0.840 us    |  alloc_pages_current();
+   0)   0.790 us    |  alloc_pages_current();
+   0)   0.769 us    |  alloc_pages_current();
+   2)   0.496 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>    sh-8857    
+ ------------------------------------------
+
+   3)   1.065 us    |  alloc_pages_current();
+   3)   0.905 us    |  alloc_pages_current();
+   3)   0.745 us    |  alloc_pages_current();
+   2)   0.858 us    |  alloc_pages_current();
+   2)   0.230 us    |  alloc_pages_current();
+   2)   0.200 us    |  alloc_pages_current();
+   3)   1.776 us    |  alloc_pages_current();
+   3)   0.856 us    |  alloc_pages_current();
+   3)   0.958 us    |  alloc_pages_current();
+   3)   0.664 us    |  alloc_pages_current();
+   3)   0.373 us    |  alloc_pages_current();
+   3)   0.346 us    |  alloc_pages_current();
+   3)   0.195 us    |  alloc_pages_current();
+   3)   0.900 us    |  alloc_pages_current();
+   3)   0.621 us    |  alloc_pages_current();
+   3)   0.319 us    |  alloc_pages_current();
+   3)   0.912 us    |  alloc_pages_current();
+   3)   0.774 us    |  alloc_pages_current();
+   3)   0.770 us    |  alloc_pages_current();
+   3)   0.775 us    |  alloc_pages_current();
+   3)   0.649 us    |  alloc_pages_current();
+   3) + 52.669 us   |  alloc_pages_current();
+   3)   1.323 us    |  alloc_pages_current();
+   3)   0.670 us    |  alloc_pages_current();
+   3)   0.914 us    |  alloc_pages_current();
+   3)   0.895 us    |  alloc_pages_current();
+   3)   0.424 us    |  alloc_pages_current();
+   3)   0.868 us    |  alloc_pages_current();
+   3)   2.000 us    |  alloc_pages_current();
+   3)   0.940 us    |  alloc_pages_current();
+   3)   0.685 us    |  alloc_pages_current();
+   3)   0.588 us    |  alloc_pages_current();
+   3)   0.675 us    |  alloc_pages_current();
+   3)   0.659 us    |  alloc_pages_current();
+   3) + 40.355 us   |  alloc_pages_current();
+   3)   1.119 us    |  alloc_pages_current();
+   3)   0.708 us    |  alloc_pages_current();
+   3)   0.640 us    |  alloc_pages_current();
+   3) + 31.532 us   |  alloc_pages_current();
+   3)   0.898 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  invoke--8858 
+ ------------------------------------------
+
+   1)   1.403 us    |  alloc_pages_current();
+   1)   0.812 us    |  alloc_pages_current();
+   1)   2.242 us    |  alloc_pages_current();
+   1)   0.900 us    |  alloc_pages_current();
+   1)   0.607 us    |  alloc_pages_current();
+   1)   0.782 us    |  alloc_pages_current();
+   1)   0.507 us    |  alloc_pages_current();
+   1)   0.237 us    |  alloc_pages_current();
+   1)   0.853 us    |  alloc_pages_current();
+   1)   0.826 us    |  alloc_pages_current();
+   1)   4.040 us    |  alloc_pages_current();
+   1)   0.750 us    |  alloc_pages_current();
+   1)   0.668 us    |  alloc_pages_current();
+   1)   0.605 us    |  alloc_pages_current();
+   1)   0.809 us    |  alloc_pages_current();
+   1)   0.590 us    |  alloc_pages_current();
+   1)   0.654 us    |  alloc_pages_current();
+   1)   0.932 us    |  alloc_pages_current();
+   1)   0.845 us    |  alloc_pages_current();
+   1)   0.901 us    |  alloc_pages_current();
+   1)   0.943 us    |  alloc_pages_current();
+   1)   0.387 us    |  alloc_pages_current();
+   1)   0.867 us    |  alloc_pages_current();
+   1)   1.770 us    |  alloc_pages_current();
+   1)   0.890 us    |  alloc_pages_current();
+   1)   0.684 us    |  alloc_pages_current();
+   1)   0.712 us    |  alloc_pages_current();
+   1)   0.585 us    |  alloc_pages_current();
+   1)   0.798 us    |  alloc_pages_current();
+   1)   0.653 us    |  alloc_pages_current();
+   1)   0.700 us    |  alloc_pages_current();
+   1)   0.889 us    |  alloc_pages_current();
+   1)   0.687 us    |  alloc_pages_current();
+   1)   0.658 us    |  alloc_pages_current();
+   1)   0.643 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemd-365   =>   which-8859  
+ ------------------------------------------
+
+   2)   1.339 us    |  alloc_pages_current();
+   2)   0.847 us    |  alloc_pages_current();
+   2)   1.916 us    |  alloc_pages_current();
+   2)   1.225 us    |  alloc_pages_current();
+   2)   0.744 us    |  alloc_pages_current();
+   2)   0.590 us    |  alloc_pages_current();
+   2)   0.577 us    |  alloc_pages_current();
+   2)   0.263 us    |  alloc_pages_current();
+   2)   0.879 us    |  alloc_pages_current();
+   2)   0.821 us    |  alloc_pages_current();
+   2)   0.313 us    |  alloc_pages_current();
+   2)   0.941 us    |  alloc_pages_current();
+   2)   0.801 us    |  alloc_pages_current();
+   2)   0.787 us    |  alloc_pages_current();
+   2)   0.912 us    |  alloc_pages_current();
+   2)   0.830 us    |  alloc_pages_current();
+   2)   0.805 us    |  alloc_pages_current();
+   2)   0.732 us    |  alloc_pages_current();
+   2)   0.956 us    |  alloc_pages_current();
+   2)   1.161 us    |  alloc_pages_current();
+   2)   0.396 us    |  alloc_pages_current();
+   2)   0.938 us    |  alloc_pages_current();
+   2)   0.515 us    |  alloc_pages_current();
+   2)   0.248 us    |  alloc_pages_current();
+   1)   0.748 us    |  alloc_pages_current();
+   1)   0.187 us    |  alloc_pages_current();
+   1)   0.193 us    |  alloc_pages_current();
+   1)   0.173 us    |  alloc_pages_current();
+   1)   1.466 us    |  alloc_pages_current();
+   1)   0.700 us    |  alloc_pages_current();
+   1)   0.595 us    |  alloc_pages_current();
+   1)   0.799 us    |  alloc_pages_current();
+   1)   0.718 us    |  alloc_pages_current();
+   1)   4.481 us    |  alloc_pages_current();
+   1)   0.563 us    |  alloc_pages_current();
+   1)   0.717 us    |  alloc_pages_current();
+   1)   0.666 us    |  alloc_pages_current();
+   1)   0.750 us    |  alloc_pages_current();
+   1)   0.576 us    |  alloc_pages_current();
+   1)   0.716 us    |  alloc_pages_current();
+   1)   0.450 us    |  alloc_pages_current();
+   1)   0.190 us    |  alloc_pages_current();
+   1)   0.205 us    |  alloc_pages_current();
+   1)   0.188 us    |  alloc_pages_current();
+   1)   1.418 us    |  alloc_pages_current();
+   1)   0.824 us    |  alloc_pages_current();
+   1)   0.816 us    |  alloc_pages_current();
+   1)   0.633 us    |  alloc_pages_current();
+   1)   0.602 us    |  alloc_pages_current();
+   1)   0.665 us    |  alloc_pages_current();
+   1)   0.638 us    |  alloc_pages_current();
+   1)   0.560 us    |  alloc_pages_current();
+   1) + 44.736 us   |  alloc_pages_current();
+ ------------------------------------------
+   3)    sh-8857     =>  initctl-8860 
+ ------------------------------------------
+
+   3)   1.483 us    |  alloc_pages_current();
+   3)   0.779 us    |  alloc_pages_current();
+   1)   1.023 us    |  alloc_pages_current();
+   1)   0.756 us    |  alloc_pages_current();
+   1)   0.660 us    |  alloc_pages_current();
+   3)   2.065 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   cron-8856    =>   grep-8861   
+ ------------------------------------------
+
+   0)   1.791 us    |  alloc_pages_current();
+   0)   0.865 us    |  alloc_pages_current();
+   3)   1.406 us    |  alloc_pages_current();
+   3)   0.730 us    |  alloc_pages_current();
+   3)   0.712 us    |  alloc_pages_current();
+   3)   0.541 us    |  alloc_pages_current();
+   0)   2.038 us    |  alloc_pages_current();
+   3)   0.210 us    |  alloc_pages_current();
+   0)   0.930 us    |  alloc_pages_current();
+   0)   0.677 us    |  alloc_pages_current();
+   0)   0.831 us    |  alloc_pages_current();
+   3)   0.841 us    |  alloc_pages_current();
+   3)   0.833 us    |  alloc_pages_current();
+   3)   0.279 us    |  alloc_pages_current();
+   3)   0.827 us    |  alloc_pages_current();
+   3)   0.696 us    |  alloc_pages_current();
+   0)   0.434 us    |  alloc_pages_current();
+   0)   0.240 us    |  alloc_pages_current();
+   3)   1.292 us    |  alloc_pages_current();
+   0)   0.987 us    |  alloc_pages_current();
+   0)   0.770 us    |  alloc_pages_current();
+   0)   0.344 us    |  alloc_pages_current();
+   3)   0.821 us    |  alloc_pages_current();
+   3)   0.744 us    |  alloc_pages_current();
+   3)   0.618 us    |  alloc_pages_current();
+   0)   1.114 us    |  alloc_pages_current();
+   0)   0.671 us    |  alloc_pages_current();
+   0)   0.622 us    |  alloc_pages_current();
+   3)   0.787 us    |  alloc_pages_current();
+   0)   0.694 us    |  alloc_pages_current();
+   0)   1.037 us    |  alloc_pages_current();
+   3)   0.616 us    |  alloc_pages_current();
+   0)   0.660 us    |  alloc_pages_current();
+   0)   0.714 us    |  alloc_pages_current();
+   3)   0.877 us    |  alloc_pages_current();
+   0)   1.054 us    |  alloc_pages_current();
+   3)   1.097 us    |  alloc_pages_current();
+   0)   1.101 us    |  alloc_pages_current();
+   3)   0.995 us    |  alloc_pages_current();
+   0)   0.896 us    |  alloc_pages_current();
+   3)   0.951 us    |  alloc_pages_current();
+   0)   4.927 us    |  alloc_pages_current();
+   3)   1.077 us    |  alloc_pages_current();
+   3)   0.929 us    |  alloc_pages_current();
+   0)   1.092 us    |  alloc_pages_current();
+   0)   0.426 us    |  alloc_pages_current();
+   3)   1.036 us    |  alloc_pages_current();
+   3)   0.993 us    |  alloc_pages_current();
+   3)   0.683 us    |  alloc_pages_current();
+   3)   0.842 us    |  alloc_pages_current();
+   0)   0.973 us    |  alloc_pages_current();
+   0)   1.045 us    |  alloc_pages_current();
+   3)   0.964 us    |  alloc_pages_current();
+   0)   0.840 us    |  alloc_pages_current();
+   3)   0.982 us    |  alloc_pages_current();
+   3)   1.152 us    |  alloc_pages_current();
+   3)   0.866 us    |  alloc_pages_current();
+   3)   0.330 us    |  alloc_pages_current();
+   3)   0.716 us    |  alloc_pages_current();
+   3)   0.924 us    |  alloc_pages_current();
+   3)   0.905 us    |  alloc_pages_current();
+   3)   0.923 us    |  alloc_pages_current();
+   3)   0.463 us    |  alloc_pages_current();
+   3)   0.263 us    |  alloc_pages_current();
+   3)   0.219 us    |  alloc_pages_current();
+   0)   1.122 us    |  alloc_pages_current();
+   0)   0.455 us    |  alloc_pages_current();
+   0)   0.281 us    |  alloc_pages_current();
+   0)   0.267 us    |  alloc_pages_current();
+   1)   0.678 us    |  alloc_pages_current();
+   1)   0.202 us    |  alloc_pages_current();
+   1)   0.172 us    |  alloc_pages_current();
+   1)   0.197 us    |  alloc_pages_current();
+   1)   1.621 us    |  alloc_pages_current();
+   1)   0.726 us    |  alloc_pages_current();
+   1)   0.705 us    |  alloc_pages_current();
+   1)   0.825 us    |  alloc_pages_current();
+   1)   0.828 us    |  alloc_pages_current();
+   1)   0.750 us    |  alloc_pages_current();
+   1)   4.310 us    |  alloc_pages_current();
+   1)   0.901 us    |  alloc_pages_current();
+   1)   0.643 us    |  alloc_pages_current();
+   1)   0.700 us    |  alloc_pages_current();
+   1)   0.647 us    |  alloc_pages_current();
+   1)   0.768 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)   which-8859   =>  runleve-8862 
+ ------------------------------------------
+
+   2)   1.181 us    |  alloc_pages_current();
+   2)   0.879 us    |  alloc_pages_current();
+   2)   1.962 us    |  alloc_pages_current();
+   2)   1.081 us    |  alloc_pages_current();
+   2)   5.025 us    |  alloc_pages_current();
+   2)   0.746 us    |  alloc_pages_current();
+   2)   0.378 us    |  alloc_pages_current();
+   2)   0.225 us    |  alloc_pages_current();
+   2)   0.860 us    |  alloc_pages_current();
+   2)   0.572 us    |  alloc_pages_current();
+   2)   0.251 us    |  alloc_pages_current();
+   2)   0.956 us    |  alloc_pages_current();
+   2)   0.731 us    |  alloc_pages_current();
+   2)   0.654 us    |  alloc_pages_current();
+   2)   0.748 us    |  alloc_pages_current();
+   2)   0.755 us    |  alloc_pages_current();
+   2)   0.741 us    |  alloc_pages_current();
+   2)   0.950 us    |  alloc_pages_current();
+   2)   0.945 us    |  alloc_pages_current();
+   2)   0.978 us    |  alloc_pages_current();
+   2)   1.120 us    |  alloc_pages_current();
+   2)   1.018 us    |  alloc_pages_current();
+   2)   0.930 us    |  alloc_pages_current();
+   2)   0.831 us    |  alloc_pages_current();
+   2)   0.996 us    |  alloc_pages_current();
+   2)   1.159 us    |  alloc_pages_current();
+   2)   0.993 us    |  alloc_pages_current();
+   2)   0.418 us    |  alloc_pages_current();
+   2)   0.864 us    |  alloc_pages_current();
+   2)   0.935 us    |  alloc_pages_current();
+   2)   0.773 us    |  alloc_pages_current();
+   2)   0.754 us    |  alloc_pages_current();
+   2)   0.188 us    |  alloc_pages_current();
+   2)   0.913 us    |  alloc_pages_current();
+   2)   0.264 us    |  alloc_pages_current();
+   2)   0.360 us    |  alloc_pages_current();
+   2)   0.247 us    |  alloc_pages_current();
+   2)   0.226 us    |  alloc_pages_current();
+   1)   0.429 us    |  alloc_pages_current();
+   1)   0.238 us    |  alloc_pages_current();
+   1)   0.193 us    |  alloc_pages_current();
+   1)   0.219 us    |  alloc_pages_current();
+   1)   1.591 us    |  alloc_pages_current();
+   1)   0.695 us    |  alloc_pages_current();
+   1)   0.850 us    |  alloc_pages_current();
+   1)   0.782 us    |  alloc_pages_current();
+   1)   0.653 us    |  alloc_pages_current();
+   1)   0.763 us    |  alloc_pages_current();
+   1)   0.773 us    |  alloc_pages_current();
+   1)   0.706 us    |  alloc_pages_current();
+   1)   0.702 us    |  alloc_pages_current();
+   1)   0.708 us    |  alloc_pages_current();
+   1)   0.817 us    |  alloc_pages_current();
+   1)   0.741 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  runleve-8862  =>  invoke--8863 
+ ------------------------------------------
+
+   2)   1.156 us    |  alloc_pages_current();
+   2)   0.877 us    |  alloc_pages_current();
+   2)   1.791 us    |  alloc_pages_current();
+   2)   0.833 us    |  alloc_pages_current();
+   2)   0.660 us    |  alloc_pages_current();
+   2)   0.539 us    |  alloc_pages_current();
+   2)   0.588 us    |  alloc_pages_current();
+   2)   0.718 us    |  alloc_pages_current();
+   2)   4.489 us    |  alloc_pages_current();
+   2)   0.638 us    |  alloc_pages_current();
+   2)   0.771 us    |  alloc_pages_current();
+   2)   0.599 us    |  alloc_pages_current();
+   2)   0.738 us    |  alloc_pages_current();
+   2)   0.557 us    |  alloc_pages_current();
+   2)   1.631 us    |  alloc_pages_current();
+   2)   0.717 us    |  alloc_pages_current();
+   2)   0.765 us    |  alloc_pages_current();
+   2)   0.622 us    |  alloc_pages_current();
+   2)   0.649 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  initctl-8860  =>    ls-8864    
+ ------------------------------------------
+
+   3)   1.231 us    |  alloc_pages_current();
+   2)   0.633 us    |  alloc_pages_current();
+   2)   0.659 us    |  alloc_pages_current();
+   2)   0.733 us    |  alloc_pages_current();
+   2)   0.584 us    |  alloc_pages_current();
+   2)   0.668 us    |  alloc_pages_current();
+   2)   0.822 us    |  alloc_pages_current();
+   2)   0.610 us    |  alloc_pages_current();
+   3)   0.760 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>   xargs-8865  
+ ------------------------------------------
+
+   1)   1.609 us    |  alloc_pages_current();
+   1)   1.387 us    |  alloc_pages_current();
+   1)   1.740 us    |  alloc_pages_current();
+   3)   2.051 us    |  alloc_pages_current();
+   3)   0.933 us    |  alloc_pages_current();
+   3)   0.706 us    |  alloc_pages_current();
+   3)   0.765 us    |  alloc_pages_current();
+   1)   1.148 us    |  alloc_pages_current();
+   1)   0.786 us    |  alloc_pages_current();
+   1)   0.753 us    |  alloc_pages_current();
+   3)   0.675 us    |  alloc_pages_current();
+   1)   0.427 us    |  alloc_pages_current();
+   3)   0.218 us    |  alloc_pages_current();
+   1)   0.288 us    |  alloc_pages_current();
+   3)   0.896 us    |  alloc_pages_current();
+   3)   0.745 us    |  alloc_pages_current();
+   3)   0.286 us    |  alloc_pages_current();
+   1)   1.078 us    |  alloc_pages_current();
+   1)   0.772 us    |  alloc_pages_current();
+   1)   0.310 us    |  alloc_pages_current();
+   3)   1.019 us    |  alloc_pages_current();
+   3)   0.749 us    |  alloc_pages_current();
+   3)   0.674 us    |  alloc_pages_current();
+   1)   0.989 us    |  alloc_pages_current();
+   1)   0.615 us    |  alloc_pages_current();
+   3)   0.754 us    |  alloc_pages_current();
+   1)   4.583 us    |  alloc_pages_current();
+   3)   0.717 us    |  alloc_pages_current();
+   3)   0.715 us    |  alloc_pages_current();
+   3)   0.965 us    |  alloc_pages_current();
+   1)   0.878 us    |  alloc_pages_current();
+   1)   0.580 us    |  alloc_pages_current();
+   1)   0.747 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   xargs-8865   =>    ls-8864    
+ ------------------------------------------
+
+   1)   0.796 us    |  alloc_pages_current();
+   3)   0.809 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)    ls-8864     =>   xargs-8865  
+ ------------------------------------------
+
+   1)   0.790 us    |  alloc_pages_current();
+   1)   1.004 us    |  alloc_pages_current();
+   3)   1.011 us    |  alloc_pages_current();
+   1)   1.028 us    |  alloc_pages_current();
+   3)   1.080 us    |  alloc_pages_current();
+   3)   1.068 us    |  alloc_pages_current();
+   3)   0.863 us    |  alloc_pages_current();
+   1)   0.425 us    |  alloc_pages_current();
+   3)   1.016 us    |  alloc_pages_current();
+   3)   1.071 us    |  alloc_pages_current();
+   1)   1.082 us    |  alloc_pages_current();
+   1)   0.965 us    |  alloc_pages_current();
+   1)   0.688 us    |  alloc_pages_current();
+   1)   0.770 us    |  alloc_pages_current();
+   3)   0.487 us    |  alloc_pages_current();
+   3)   0.887 us    |  alloc_pages_current();
+   3)   0.794 us    |  alloc_pages_current();
+   3)   0.720 us    |  alloc_pages_current();
+   3)   0.312 us    |  alloc_pages_current();
+   3)   0.431 us    |  alloc_pages_current();
+   3)   0.239 us    |  alloc_pages_current();
+   3)   0.220 us    |  alloc_pages_current();
+   1)   0.726 us    |  alloc_pages_current();
+   1)   0.223 us    |  alloc_pages_current();
+   1)   0.292 us    |  alloc_pages_current();
+   1)   0.212 us    |  alloc_pages_current();
+   1)   1.522 us    |  alloc_pages_current();
+   1)   0.782 us    |  alloc_pages_current();
+   1)   0.656 us    |  alloc_pages_current();
+   1)   0.627 us    |  alloc_pages_current();
+   1)   0.602 us    |  alloc_pages_current();
+   1)   0.572 us    |  alloc_pages_current();
+   1)   0.575 us    |  alloc_pages_current();
+   1)   0.616 us    |  alloc_pages_current();
+   1)   0.578 us    |  alloc_pages_current();
+   1)   0.632 us    |  alloc_pages_current();
+   1)   0.609 us    |  alloc_pages_current();
+   1)   0.795 us    |  alloc_pages_current();
+   1)   0.561 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)    ls-8864     =>   echo-8866   
+ ------------------------------------------
+
+   3)   1.302 us    |  alloc_pages_current();
+   3)   0.711 us    |  alloc_pages_current();
+   3)   0.946 us    |  alloc_pages_current();
+   3)   1.578 us    |  alloc_pages_current();
+   3)   0.909 us    |  alloc_pages_current();
+   3)   0.625 us    |  alloc_pages_current();
+   3)   0.634 us    |  alloc_pages_current();
+   3)   0.381 us    |  alloc_pages_current();
+   3)   0.218 us    |  alloc_pages_current();
+   3)   0.811 us    |  alloc_pages_current();
+   3)   0.592 us    |  alloc_pages_current();
+   3)   0.279 us    |  alloc_pages_current();
+   3)   0.767 us    |  alloc_pages_current();
+   3)   4.240 us    |  alloc_pages_current();
+   3)   0.659 us    |  alloc_pages_current();
+   3)   0.734 us    |  alloc_pages_current();
+   3)   0.663 us    |  alloc_pages_current();
+   3)   0.986 us    |  alloc_pages_current();
+   3)   0.788 us    |  alloc_pages_current();
+   3)   1.017 us    |  alloc_pages_current();
+   3)   1.075 us    |  alloc_pages_current();
+   3)   0.766 us    |  alloc_pages_current();
+   3)   1.063 us    |  alloc_pages_current();
+   3)   0.821 us    |  alloc_pages_current();
+   3)   0.686 us    |  alloc_pages_current();
+   3)   0.851 us    |  alloc_pages_current();
+   3)   0.356 us    |  alloc_pages_current();
+   3)   0.199 us    |  alloc_pages_current();
+   1)   0.554 us    |  alloc_pages_current();
+   1)   0.299 us    |  alloc_pages_current();
+   2)   0.634 us    |  alloc_pages_current();
+   2)   0.208 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   xargs-8865   =>  invoke--8858 
+ ------------------------------------------
+
+   1)   1.706 us    |  alloc_pages_current();
+   1)   0.810 us    |  alloc_pages_current();
+   1)   0.749 us    |  alloc_pages_current();
+   1)   0.741 us    |  alloc_pages_current();
+   1)   0.644 us    |  alloc_pages_current();
+   1)   4.461 us    |  alloc_pages_current();
+   1)   0.712 us    |  alloc_pages_current();
+   1)   0.583 us    |  alloc_pages_current();
+   1)   0.627 us    |  alloc_pages_current();
+   1)   0.956 us    |  alloc_pages_current();
+   1)   0.571 us    |  alloc_pages_current();
+   1)   0.572 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   echo-8866    =>  invoke--8867 
+ ------------------------------------------
+
+   3)   1.301 us    |  alloc_pages_current();
+   3)   0.834 us    |  alloc_pages_current();
+   3)   1.768 us    |  alloc_pages_current();
+   3)   0.783 us    |  alloc_pages_current();
+   3)   0.655 us    |  alloc_pages_current();
+   3)   0.535 us    |  alloc_pages_current();
+   3)   0.596 us    |  alloc_pages_current();
+   3)   0.756 us    |  alloc_pages_current();
+   3)   0.666 us    |  alloc_pages_current();
+   3)   0.701 us    |  alloc_pages_current();
+   3)   0.706 us    |  alloc_pages_current();
+   3)   0.636 us    |  alloc_pages_current();
+   3)   0.583 us    |  alloc_pages_current();
+   3)   0.584 us    |  alloc_pages_current();
+   3)   1.857 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  invoke--8863  =>    ls-8868    
+ ------------------------------------------
+
+   2)   1.327 us    |  alloc_pages_current();
+   3)   0.961 us    |  alloc_pages_current();
+   3)   0.666 us    |  alloc_pages_current();
+   3)   0.720 us    |  alloc_pages_current();
+   3)   0.666 us    |  alloc_pages_current();
+   3)   0.618 us    |  alloc_pages_current();
+   3)   0.577 us    |  alloc_pages_current();
+   3)   0.626 us    |  alloc_pages_current();
+   2)   1.003 us    |  alloc_pages_current();
+   3)   0.605 us    |  alloc_pages_current();
+   3)   0.705 us    |  alloc_pages_current();
+   3)   4.298 us    |  alloc_pages_current();
+   3)   0.582 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>   xargs-8869  
+ ------------------------------------------
+
+   1)   1.729 us    |  alloc_pages_current();
+   1)   0.888 us    |  alloc_pages_current();
+   2)   1.636 us    |  alloc_pages_current();
+   2)   0.956 us    |  alloc_pages_current();
+   2)   0.819 us    |  alloc_pages_current();
+   2)   0.847 us    |  alloc_pages_current();
+   2)   0.364 us    |  alloc_pages_current();
+   1)   2.040 us    |  alloc_pages_current();
+   1)   1.171 us    |  alloc_pages_current();
+   1)   0.685 us    |  alloc_pages_current();
+   1)   0.754 us    |  alloc_pages_current();
+   2)   0.256 us    |  alloc_pages_current();
+   1)   0.414 us    |  alloc_pages_current();
+   2)   0.905 us    |  alloc_pages_current();
+   2)   0.830 us    |  alloc_pages_current();
+   2)   0.277 us    |  alloc_pages_current();
+   2)   0.976 us    |  alloc_pages_current();
+   2)   0.788 us    |  alloc_pages_current();
+   1)   0.219 us    |  alloc_pages_current();
+   2)   0.651 us    |  alloc_pages_current();
+   2)   0.723 us    |  alloc_pages_current();
+   2)   4.549 us    |  alloc_pages_current();
+   1)   0.893 us    |  alloc_pages_current();
+   1)   0.763 us    |  alloc_pages_current();
+   2)   0.831 us    |  alloc_pages_current();
+   1)   0.285 us    |  alloc_pages_current();
+   1)   0.737 us    |  alloc_pages_current();
+   1)   0.755 us    |  alloc_pages_current();
+   2)   0.929 us    |  alloc_pages_current();
+   1)   0.674 us    |  alloc_pages_current();
+   1)   0.847 us    |  alloc_pages_current();
+   1)   0.731 us    |  alloc_pages_current();
+   1)   0.762 us    |  alloc_pages_current();
+   1)   0.819 us    |  alloc_pages_current();
+   1)   0.694 us    |  alloc_pages_current();
+   2)   1.062 us    |  alloc_pages_current();
+   2)   0.864 us    |  alloc_pages_current();
+   1)   0.884 us    |  alloc_pages_current();
+   1)   0.802 us    |  alloc_pages_current();
+   2)   0.975 us    |  alloc_pages_current();
+   2)   0.847 us    |  alloc_pages_current();
+   1)   0.554 us    |  alloc_pages_current();
+   2)   1.003 us    |  alloc_pages_current();
+   1)   1.022 us    |  alloc_pages_current();
+   1)   0.986 us    |  alloc_pages_current();
+   2)   0.434 us    |  alloc_pages_current();
+   1)   0.778 us    |  alloc_pages_current();
+   2)   0.881 us    |  alloc_pages_current();
+   2)   0.832 us    |  alloc_pages_current();
+   2)   0.764 us    |  alloc_pages_current();
+   2)   0.763 us    |  alloc_pages_current();
+   2)   1.068 us    |  alloc_pages_current();
+   2)   0.359 us    |  alloc_pages_current();
+   2)   0.286 us    |  alloc_pages_current();
+   2)   0.196 us    |  alloc_pages_current();
+   1)   0.704 us    |  alloc_pages_current();
+   1)   0.169 us    |  alloc_pages_current();
+   1)   4.499 us    |  alloc_pages_current();
+   1)   0.184 us    |  alloc_pages_current();
+   1)   1.545 us    |  alloc_pages_current();
+   1)   0.884 us    |  alloc_pages_current();
+   1)   0.689 us    |  alloc_pages_current();
+   1)   0.628 us    |  alloc_pages_current();
+   1)   0.647 us    |  alloc_pages_current();
+   1)   0.652 us    |  alloc_pages_current();
+   1)   0.672 us    |  alloc_pages_current();
+   1)   0.605 us    |  alloc_pages_current();
+   1)   0.584 us    |  alloc_pages_current();
+   1)   0.644 us    |  alloc_pages_current();
+   1)   0.716 us    |  alloc_pages_current();
+   1)   0.793 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   xargs-8869   =>   echo-8870   
+ ------------------------------------------
+
+   1)   0.926 us    |  alloc_pages_current();
+   1)   0.700 us    |  alloc_pages_current();
+   1)   0.899 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   grep-8861    =>   echo-8870   
+ ------------------------------------------
+
+   0)   1.805 us    |  alloc_pages_current();
+   0)   0.971 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  invoke--8867  =>   Xorg-1087   
+ ------------------------------------------
+
+   3)   1.172 us    |  alloc_pages_current();
+   0)   0.656 us    |  alloc_pages_current();
+   0)   0.831 us    |  alloc_pages_current();
+   0)   0.557 us    |  alloc_pages_current();
+   0)   0.227 us    |  alloc_pages_current();
+   0)   0.983 us    |  alloc_pages_current();
+   0)   0.867 us    |  alloc_pages_current();
+   0)   0.298 us    |  alloc_pages_current();
+   0)   0.839 us    |  alloc_pages_current();
+   0)   0.698 us    |  alloc_pages_current();
+   0)   0.691 us    |  alloc_pages_current();
+   0)   1.025 us    |  alloc_pages_current();
+   0)   0.645 us    |  alloc_pages_current();
+   0)   1.148 us    |  alloc_pages_current();
+   0)   0.824 us    |  alloc_pages_current();
+   0)   0.950 us    |  alloc_pages_current();
+   0)   0.986 us    |  alloc_pages_current();
+   0)   0.358 us    |  alloc_pages_current();
+   0)   0.708 us    |  alloc_pages_current();
+   0)   0.956 us    |  alloc_pages_current();
+   0)   0.701 us    |  alloc_pages_current();
+   0)   0.261 us    |  alloc_pages_current();
+   0)   0.478 us    |  alloc_pages_current();
+   0)   0.496 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   echo-8870    =>   xargs-8869  
+ ------------------------------------------
+
+   1)   0.537 us    |  alloc_pages_current();
+   1)   0.259 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)    ls-8868     =>  invoke--8867 
+ ------------------------------------------
+
+   2)   0.651 us    |  alloc_pages_current();
+   2)   0.215 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   xargs-8869   =>  invoke--8858 
+ ------------------------------------------
+
+   1)   1.653 us    |  alloc_pages_current();
+   1)   0.944 us    |  alloc_pages_current();
+   1)   0.584 us    |  alloc_pages_current();
+   1)   0.749 us    |  alloc_pages_current();
+   1)   0.636 us    |  alloc_pages_current();
+   1)   0.679 us    |  alloc_pages_current();
+   1)   1.288 us    |  alloc_pages_current();
+   1)   0.751 us    |  alloc_pages_current();
+   1)   0.571 us    |  alloc_pages_current();
+   1)   0.594 us    |  alloc_pages_current();
+   1)   0.750 us    |  alloc_pages_current();
+   1)   0.618 us    |  alloc_pages_current();
+   2)   1.184 us    |  alloc_pages_current();
+   2)   0.782 us    |  alloc_pages_current();
+   2)   1.785 us    |  alloc_pages_current();
+   2)   0.811 us    |  alloc_pages_current();
+   2)   0.592 us    |  alloc_pages_current();
+   2)   0.582 us    |  alloc_pages_current();
+   2)   0.695 us    |  alloc_pages_current();
+   2)   0.640 us    |  alloc_pages_current();
+   2)   0.672 us    |  alloc_pages_current();
+   2)   0.825 us    |  alloc_pages_current();
+   2)   0.712 us    |  alloc_pages_current();
+   2)   0.684 us    |  alloc_pages_current();
+   2)   0.571 us    |  alloc_pages_current();
+   2)   0.601 us    |  alloc_pages_current();
+   2)   1.473 us    |  alloc_pages_current();
+   2)   0.838 us    |  alloc_pages_current();
+   2)   0.748 us    |  alloc_pages_current();
+   2)   0.618 us    |  alloc_pages_current();
+   2)   0.746 us    |  alloc_pages_current();
+   2)   0.976 us    |  alloc_pages_current();
+   2)   0.717 us    |  alloc_pages_current();
+   2)   0.790 us    |  alloc_pages_current();
+   2)   5.304 us    |  alloc_pages_current();
+   2)   0.677 us    |  alloc_pages_current();
+   2)   0.579 us    |  alloc_pages_current();
+   2)   0.565 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>   xargs-8873  
+ ------------------------------------------
+
+   1)   1.232 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   Xorg-1087    =>    ls-8872    
+ ------------------------------------------
+
+   3)   1.169 us    |  alloc_pages_current();
+   1)   0.887 us    |  alloc_pages_current();
+   3)   0.861 us    |  alloc_pages_current();
+   1)   1.765 us    |  alloc_pages_current();
+   1)   0.898 us    |  alloc_pages_current();
+   1)   0.727 us    |  alloc_pages_current();
+   1)   4.976 us    |  alloc_pages_current();
+   1)   0.450 us    |  alloc_pages_current();
+   1)   0.220 us    |  alloc_pages_current();
+   1)   0.876 us    |  alloc_pages_current();
+   1)   0.662 us    |  alloc_pages_current();
+   1)   0.320 us    |  alloc_pages_current();
+   3)   1.762 us    |  alloc_pages_current();
+   1)   0.902 us    |  alloc_pages_current();
+   1)   0.718 us    |  alloc_pages_current();
+   3)   0.935 us    |  alloc_pages_current();
+   1)   0.795 us    |  alloc_pages_current();
+   3)   0.779 us    |  alloc_pages_current();
+   3)   0.686 us    |  alloc_pages_current();
+   1)   0.871 us    |  alloc_pages_current();
+   1)   0.745 us    |  alloc_pages_current();
+   3)   0.425 us    |  alloc_pages_current();
+   1)   0.835 us    |  alloc_pages_current();
+   3)   0.309 us    |  alloc_pages_current();
+   1)   0.802 us    |  alloc_pages_current();
+   3)   0.910 us    |  alloc_pages_current();
+   3)   0.575 us    |  alloc_pages_current();
+   3)   0.291 us    |  alloc_pages_current();
+   3)   0.860 us    |  alloc_pages_current();
+   3)   0.682 us    |  alloc_pages_current();
+   3)   0.783 us    |  alloc_pages_current();
+   3)   1.116 us    |  alloc_pages_current();
+   3)   0.616 us    |  alloc_pages_current();
+   3)   0.730 us    |  alloc_pages_current();
+   3)   0.952 us    |  alloc_pages_current();
+   1)   0.987 us    |  alloc_pages_current();
+   3)   0.726 us    |  alloc_pages_current();
+   1)   1.211 us    |  alloc_pages_current();
+   3)   0.902 us    |  alloc_pages_current();
+   1)   0.480 us    |  alloc_pages_current();
+   3)   0.892 us    |  alloc_pages_current();
+   3)   0.899 us    |  alloc_pages_current();
+   3)   0.792 us    |  alloc_pages_current();
+   1)   1.059 us    |  alloc_pages_current();
+   3)   1.022 us    |  alloc_pages_current();
+   1)   0.860 us    |  alloc_pages_current();
+   1)   1.028 us    |  alloc_pages_current();
+   3)   0.844 us    |  alloc_pages_current();
+   3)   0.358 us    |  alloc_pages_current();
+   3)   0.862 us    |  alloc_pages_current();
+   3)   0.910 us    |  alloc_pages_current();
+   3)   0.728 us    |  alloc_pages_current();
+   3)   0.686 us    |  alloc_pages_current();
+   3)   0.781 us    |  alloc_pages_current();
+   3)   0.641 us    |  alloc_pages_current();
+   3)   0.212 us    |  alloc_pages_current();
+   3)   0.210 us    |  alloc_pages_current();
+   1)   0.975 us    |  alloc_pages_current();
+   1)   0.202 us    |  alloc_pages_current();
+   1)   0.191 us    |  alloc_pages_current();
+   1)   0.195 us    |  alloc_pages_current();
+   1)   1.772 us    |  alloc_pages_current();
+   1)   0.767 us    |  alloc_pages_current();
+   1)   0.664 us    |  alloc_pages_current();
+   1)   0.947 us    |  alloc_pages_current();
+   1)   0.662 us    |  alloc_pages_current();
+   1)   0.774 us    |  alloc_pages_current();
+   1)   0.596 us    |  alloc_pages_current();
+   1)   0.549 us    |  alloc_pages_current();
+   1)   0.659 us    |  alloc_pages_current();
+   1)   0.591 us    |  alloc_pages_current();
+   1)   0.551 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  invoke--8871  =>   echo-8874   
+ ------------------------------------------
+
+   2)   1.196 us    |  alloc_pages_current();
+   2)   0.813 us    |  alloc_pages_current();
+   2)   0.955 us    |  alloc_pages_current();
+   2)   0.880 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   echo-8870    =>   echo-8874   
+ ------------------------------------------
+
+   0)   1.568 us    |  alloc_pages_current();
+   0)   0.924 us    |  alloc_pages_current();
+   0)   0.790 us    |  alloc_pages_current();
+   0)   0.736 us    |  alloc_pages_current();
+   0)   4.665 us    |  alloc_pages_current();
+   0)   0.264 us    |  alloc_pages_current();
+   0)   0.933 us    |  alloc_pages_current();
+   0)   0.691 us    |  alloc_pages_current();
+   0)   0.314 us    |  alloc_pages_current();
+   0)   0.761 us    |  alloc_pages_current();
+   0)   0.615 us    |  alloc_pages_current();
+   0)   0.680 us    |  alloc_pages_current();
+   0)   0.672 us    |  alloc_pages_current();
+   0)   0.663 us    |  alloc_pages_current();
+   0)   0.655 us    |  alloc_pages_current();
+   0)   0.962 us    |  alloc_pages_current();
+   0)   0.671 us    |  alloc_pages_current();
+   0)   0.989 us    |  alloc_pages_current();
+   0)   1.307 us    |  alloc_pages_current();
+   0)   0.343 us    |  alloc_pages_current();
+   0)   0.689 us    |  alloc_pages_current();
+   0)   0.806 us    |  alloc_pages_current();
+   0)   0.862 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+   0)   0.491 us    |  alloc_pages_current();
+   0)   0.208 us    |  alloc_pages_current();
+   1)   4.591 us    |  alloc_pages_current();
+   1)   0.409 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)   echo-8874    =>  invoke--8871 
+ ------------------------------------------
+
+   2)   0.568 us    |  alloc_pages_current();
+   2)   0.212 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   xargs-8873   =>  invoke--8858 
+ ------------------------------------------
+
+   1)   1.565 us    |  alloc_pages_current();
+   1)   0.711 us    |  alloc_pages_current();
+   1)   0.658 us    |  alloc_pages_current();
+   1)   0.695 us    |  alloc_pages_current();
+   1)   0.605 us    |  alloc_pages_current();
+   1)   0.607 us    |  alloc_pages_current();
+   1)   0.707 us    |  alloc_pages_current();
+   1)   0.613 us    |  alloc_pages_current();
+   1)   0.582 us    |  alloc_pages_current();
+   1)   0.699 us    |  alloc_pages_current();
+   1)   0.597 us    |  alloc_pages_current();
+   1)   0.635 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>  systemc-8875 
+ ------------------------------------------
+
+   1)   0.998 us    |  alloc_pages_current();
+   1)   0.821 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  invoke--8871  =>  systemc-8875 
+ ------------------------------------------
+
+   2)   1.633 us    |  alloc_pages_current();
+   2)   1.101 us    |  alloc_pages_current();
+   2)   0.776 us    |  alloc_pages_current();
+   2)   0.662 us    |  alloc_pages_current();
+   2)   0.585 us    |  alloc_pages_current();
+   2)   0.254 us    |  alloc_pages_current();
+   2)   1.004 us    |  alloc_pages_current();
+   2)   0.601 us    |  alloc_pages_current();
+   2)   0.356 us    |  alloc_pages_current();
+   2)   0.796 us    |  alloc_pages_current();
+   2)   0.721 us    |  alloc_pages_current();
+   2)   0.645 us    |  alloc_pages_current();
+   2)   0.816 us    |  alloc_pages_current();
+   2)   0.737 us    |  alloc_pages_current();
+   2)   0.750 us    |  alloc_pages_current();
+   2)   0.896 us    |  alloc_pages_current();
+   2)   0.904 us    |  alloc_pages_current();
+   2)   0.908 us    |  alloc_pages_current();
+   2)   0.845 us    |  alloc_pages_current();
+   2)   0.868 us    |  alloc_pages_current();
+   2)   0.872 us    |  alloc_pages_current();
+   2)   0.834 us    |  alloc_pages_current();
+   2)   0.950 us    |  alloc_pages_current();
+   2)   0.917 us    |  alloc_pages_current();
+   2)   0.929 us    |  alloc_pages_current();
+   2)   0.409 us    |  alloc_pages_current();
+   2)   0.820 us    |  alloc_pages_current();
+   2)   1.055 us    |  alloc_pages_current();
+   2)   0.798 us    |  alloc_pages_current();
+   2)   0.550 us    |  alloc_pages_current();
+   2)   0.185 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)    ls-8872     =>   systemd-1   
+ ------------------------------------------
+
+   3) + 41.947 us   |  alloc_pages_current();
+   2)   1.087 us    |  alloc_pages_current();
+   2)   0.262 us    |  alloc_pages_current();
+   2)   0.422 us    |  alloc_pages_current();
+   2)   0.250 us    |  alloc_pages_current();
+   2)   0.219 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  systemc-8875  =>  invoke--8858 
+ ------------------------------------------
+
+   1)   0.592 us    |  alloc_pages_current();
+   1)   0.208 us    |  alloc_pages_current();
+   1)   0.192 us    |  alloc_pages_current();
+   1)   0.197 us    |  alloc_pages_current();
+   1)   1.402 us    |  alloc_pages_current();
+   1)   0.710 us    |  alloc_pages_current();
+   1)   0.720 us    |  alloc_pages_current();
+   1)   0.663 us    |  alloc_pages_current();
+   1)   0.864 us    |  alloc_pages_current();
+   1)   0.599 us    |  alloc_pages_current();
+   1)   0.631 us    |  alloc_pages_current();
+   1)   0.622 us    |  alloc_pages_current();
+   1)   0.602 us    |  alloc_pages_current();
+   1)   0.922 us    |  alloc_pages_current();
+   1)   0.663 us    |  alloc_pages_current();
+   1)   0.569 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>  systemc-8876 
+ ------------------------------------------
+
+   1)   0.931 us    |  alloc_pages_current();
+   1)   0.747 us    |  alloc_pages_current();
+   1)   1.476 us    |  alloc_pages_current();
+   1)   0.857 us    |  alloc_pages_current();
+   1)   0.803 us    |  alloc_pages_current();
+   1)   0.799 us    |  alloc_pages_current();
+   1)   0.446 us    |  alloc_pages_current();
+   1)   0.237 us    |  alloc_pages_current();
+   1)   0.802 us    |  alloc_pages_current();
+   1)   0.659 us    |  alloc_pages_current();
+   1)   0.288 us    |  alloc_pages_current();
+   1)   0.907 us    |  alloc_pages_current();
+   1)   0.799 us    |  alloc_pages_current();
+   1)   0.688 us    |  alloc_pages_current();
+   1)   0.906 us    |  alloc_pages_current();
+   1)   0.730 us    |  alloc_pages_current();
+   1)   0.763 us    |  alloc_pages_current();
+   1)   0.657 us    |  alloc_pages_current();
+   1)   0.741 us    |  alloc_pages_current();
+   1)   1.078 us    |  alloc_pages_current();
+   1)   1.033 us    |  alloc_pages_current();
+   1)   1.011 us    |  alloc_pages_current();
+   1)   0.863 us    |  alloc_pages_current();
+   1)   5.146 us    |  alloc_pages_current();
+   1)   1.034 us    |  alloc_pages_current();
+   1)   0.906 us    |  alloc_pages_current();
+   1)   0.914 us    |  alloc_pages_current();
+   1)   0.904 us    |  alloc_pages_current();
+   1)   0.998 us    |  alloc_pages_current();
+   1)   0.609 us    |  alloc_pages_current();
+   1)   0.889 us    |  alloc_pages_current();
+   1)   1.108 us    |  alloc_pages_current();
+   1)   0.755 us    |  alloc_pages_current();
+   1)   0.789 us    |  alloc_pages_current();
+   1)   0.822 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.738 us    |  alloc_pages_current();
+   1)   0.252 us    |  alloc_pages_current();
+   1)   0.305 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  systemc-8876  =>  invoke--8858 
+ ------------------------------------------
+
+   1)   1.898 us    |  alloc_pages_current();
+   1)   0.853 us    |  alloc_pages_current();
+   1)   0.703 us    |  alloc_pages_current();
+   1)   0.779 us    |  alloc_pages_current();
+   1)   0.729 us    |  alloc_pages_current();
+   1)   0.652 us    |  alloc_pages_current();
+   1)   0.638 us    |  alloc_pages_current();
+   1)   0.710 us    |  alloc_pages_current();
+   1)   0.587 us    |  alloc_pages_current();
+   1)   0.650 us    |  alloc_pages_current();
+   1)   0.710 us    |  alloc_pages_current();
+   1)   0.614 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemc-8875  =>  systemc-8877 
+ ------------------------------------------
+
+   2)   2.814 us    |  alloc_pages_current();
+   2)   0.789 us    |  alloc_pages_current();
+   2)   1.687 us    |  alloc_pages_current();
+   2)   1.006 us    |  alloc_pages_current();
+   2)   0.694 us    |  alloc_pages_current();
+   2)   0.806 us    |  alloc_pages_current();
+   2)   0.495 us    |  alloc_pages_current();
+   2)   0.226 us    |  alloc_pages_current();
+   2)   0.898 us    |  alloc_pages_current();
+   2)   0.798 us    |  alloc_pages_current();
+   2)   0.311 us    |  alloc_pages_current();
+   2)   0.837 us    |  alloc_pages_current();
+   2)   0.738 us    |  alloc_pages_current();
+   2)   0.760 us    |  alloc_pages_current();
+   2)   0.714 us    |  alloc_pages_current();
+   2)   0.638 us    |  alloc_pages_current();
+   2)   0.684 us    |  alloc_pages_current();
+   2)   0.810 us    |  alloc_pages_current();
+   2)   1.055 us    |  alloc_pages_current();
+   2)   1.016 us    |  alloc_pages_current();
+   2)   0.826 us    |  alloc_pages_current();
+   2)   0.869 us    |  alloc_pages_current();
+   2)   0.856 us    |  alloc_pages_current();
+   2)   0.885 us    |  alloc_pages_current();
+   2)   0.936 us    |  alloc_pages_current();
+   2)   1.223 us    |  alloc_pages_current();
+   2)   0.944 us    |  alloc_pages_current();
+   2)   0.840 us    |  alloc_pages_current();
+   2)   0.494 us    |  alloc_pages_current();
+   2)   0.999 us    |  alloc_pages_current();
+   2)   1.241 us    |  alloc_pages_current();
+   2)   0.695 us    |  alloc_pages_current();
+   2)   0.621 us    |  alloc_pages_current();
+   2)   0.202 us    |  alloc_pages_current();
+   2)   0.652 us    |  alloc_pages_current();
+   2)   0.293 us    |  alloc_pages_current();
+   2)   0.310 us    |  alloc_pages_current();
+   1)   0.669 us    |  alloc_pages_current();
+   1)   0.219 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.186 us    |  alloc_pages_current();
+   1)   1.660 us    |  alloc_pages_current();
+   1)   0.826 us    |  alloc_pages_current();
+   1)   0.719 us    |  alloc_pages_current();
+   1)   0.679 us    |  alloc_pages_current();
+   1)   0.663 us    |  alloc_pages_current();
+   1)   0.669 us    |  alloc_pages_current();
+   1)   0.713 us    |  alloc_pages_current();
+   1)   0.660 us    |  alloc_pages_current();
+   1)   0.756 us    |  alloc_pages_current();
+   1)   0.780 us    |  alloc_pages_current();
+   1)   0.651 us    |  alloc_pages_current();
+   1)   0.559 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemc-8877  =>  systemc-8878 
+ ------------------------------------------
+
+   2)   1.136 us    |  alloc_pages_current();
+   2)   0.860 us    |  alloc_pages_current();
+   2)   1.666 us    |  alloc_pages_current();
+   2)   1.092 us    |  alloc_pages_current();
+   2)   0.572 us    |  alloc_pages_current();
+   2)   0.614 us    |  alloc_pages_current();
+   2)   0.424 us    |  alloc_pages_current();
+   2)   0.225 us    |  alloc_pages_current();
+   2)   0.912 us    |  alloc_pages_current();
+   2)   0.809 us    |  alloc_pages_current();
+   2)   0.284 us    |  alloc_pages_current();
+   2)   0.834 us    |  alloc_pages_current();
+   2)   0.661 us    |  alloc_pages_current();
+   2)   0.733 us    |  alloc_pages_current();
+   2)   0.728 us    |  alloc_pages_current();
+   2)   0.705 us    |  alloc_pages_current();
+   2)   0.859 us    |  alloc_pages_current();
+   2)   1.070 us    |  alloc_pages_current();
+   2)   0.964 us    |  alloc_pages_current();
+   2)   0.828 us    |  alloc_pages_current();
+   2)   1.010 us    |  alloc_pages_current();
+   2)   0.929 us    |  alloc_pages_current();
+   2)   0.973 us    |  alloc_pages_current();
+   2)   0.899 us    |  alloc_pages_current();
+   2)   0.873 us    |  alloc_pages_current();
+   2)   0.942 us    |  alloc_pages_current();
+   2)   0.920 us    |  alloc_pages_current();
+   2)   0.426 us    |  alloc_pages_current();
+   2)   0.818 us    |  alloc_pages_current();
+   2)   1.043 us    |  alloc_pages_current();
+   2)   0.790 us    |  alloc_pages_current();
+   2)   0.630 us    |  alloc_pages_current();
+   2)   0.230 us    |  alloc_pages_current();
+   3)   1.863 us    |  alloc_pages_current();
+   3)   1.321 us    |  alloc_pages_current();
+   3)   0.705 us    |  alloc_pages_current();
+   3)   0.761 us    |  alloc_pages_current();
+   3)   0.627 us    |  alloc_pages_current();
+   3)   1.186 us    |  alloc_pages_current();
+   3)   0.733 us    |  alloc_pages_current();
+   3)   0.691 us    |  alloc_pages_current();
+   3)   0.679 us    |  alloc_pages_current();
+   3)   0.719 us    |  alloc_pages_current();
+   3)   1.318 us    |  alloc_pages_current();
+   3)   0.875 us    |  alloc_pages_current();
+   3)   0.678 us    |  alloc_pages_current();
+   3)   0.668 us    |  alloc_pages_current();
+   3)   0.719 us    |  alloc_pages_current();
+   3)   0.636 us    |  alloc_pages_current();
+   3)   0.666 us    |  alloc_pages_current();
+   3)   0.833 us    |  alloc_pages_current();
+   3)   0.731 us    |  alloc_pages_current();
+   3)   0.602 us    |  alloc_pages_current();
+   3)   0.742 us    |  alloc_pages_current();
+   3)   0.661 us    |  alloc_pages_current();
+   3)   0.807 us    |  alloc_pages_current();
+   3)   0.587 us    |  alloc_pages_current();
+   3)   0.591 us    |  alloc_pages_current();
+   3)   0.646 us    |  alloc_pages_current();
+   3)   0.686 us    |  alloc_pages_current();
+   3)   0.815 us    |  alloc_pages_current();
+   3)   0.724 us    |  alloc_pages_current();
+   3)   0.762 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  invoke--8858  =>  anacron-8879 
+ ------------------------------------------
+
+   1)   1.319 us    |  alloc_pages_current();
+   1)   0.912 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemc-8878  =>  systemd-365  
+ ------------------------------------------
+
+   2)   0.740 us    |  alloc_pages_current();
+   2)   0.256 us    |  alloc_pages_current();
+   2)   0.194 us    |  alloc_pages_current();
+   1)   1.805 us    |  alloc_pages_current();
+   1)   0.987 us    |  alloc_pages_current();
+   1)   0.675 us    |  alloc_pages_current();
+   1)   0.688 us    |  alloc_pages_current();
+   1)   0.513 us    |  alloc_pages_current();
+   1)   0.349 us    |  alloc_pages_current();
+   1)   0.356 us    |  alloc_pages_current();
+   1)   0.935 us    |  alloc_pages_current();
+   1)   0.574 us    |  alloc_pages_current();
+   1)   0.323 us    |  alloc_pages_current();
+   1)   0.953 us    |  alloc_pages_current();
+   1)   0.706 us    |  alloc_pages_current();
+   1)   0.880 us    |  alloc_pages_current();
+   1)   0.847 us    |  alloc_pages_current();
+   1)   0.757 us    |  alloc_pages_current();
+   1)   0.781 us    |  alloc_pages_current();
+   1)   0.807 us    |  alloc_pages_current();
+   1)   0.864 us    |  alloc_pages_current();
+   1)   1.135 us    |  alloc_pages_current();
+   1)   0.360 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemd-365   =>  systemc-8878 
+ ------------------------------------------
+
+   2)   1.296 us    |  alloc_pages_current();
+   1)   1.227 us    |  alloc_pages_current();
+   2)   0.399 us    |  alloc_pages_current();
+   1)   0.910 us    |  alloc_pages_current();
+   1)   0.777 us    |  alloc_pages_current();
+   2)   0.189 us    |  alloc_pages_current();
+   2)   0.328 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemc-8878  =>  systemd-365  
+ ------------------------------------------
+
+   2)   0.706 us    |  alloc_pages_current();
+   2)   0.188 us    |  alloc_pages_current();
+   2)   0.185 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   systemd-1    =>  invoke--8858 
+ ------------------------------------------
+
+   3)   0.727 us    |  alloc_pages_current();
+   3)   0.248 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  invoke--8858  =>    sh-8857    
+ ------------------------------------------
+
+   3)   0.441 us    |  alloc_pages_current();
+   3)   0.252 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   echo-8874    =>   cron-8856   
+ ------------------------------------------
+
+   0)   0.858 us    |  alloc_pages_current();
+   0)   0.350 us    |  alloc_pages_current();
+   0)   0.183 us    |  alloc_pages_current();
+   2)   0.915 us    |  alloc_pages_current();
+   2)   0.167 us    |  alloc_pages_current();
+   0)   0.338 us    |  alloc_pages_current();
+   0)   0.594 us    |  alloc_pages_current();
+   0)   0.579 us    |  alloc_pages_current();
+   2)   0.562 us    |  alloc_pages_current();
+   0)   0.564 us    |  alloc_pages_current();
+   0)   0.548 us    |  alloc_pages_current();
+   0)   0.610 us    |  alloc_pages_current();
+   0)   0.512 us    |  alloc_pages_current();
+   0)   0.201 us    |  alloc_pages_current();
+   0)   0.315 us    |  alloc_pages_current();
+   0)   0.274 us    |  alloc_pages_current();
+   0)   0.412 us    |  alloc_pages_current();
+   0)   0.221 us    |  alloc_pages_current();
+   2)   0.957 us    |  alloc_pages_current();
+   0)   0.208 us    |  alloc_pages_current();
+   2)   0.254 us    |  alloc_pages_current();
+   2)   0.168 us    |  alloc_pages_current();
+   2)   0.737 us    |  alloc_pages_current();
+   2)   0.237 us    |  alloc_pages_current();
+   2)   0.180 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  anacron-8879  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.948 us    |  alloc_pages_current();
+   1)   1.583 us    |  alloc_pages_current();
+   1)   0.718 us    |  alloc_pages_current();
+   1)   0.925 us    |  alloc_pages_current();
+   1)   0.924 us    |  alloc_pages_current();
+   1)   1.080 us    |  alloc_pages_current();
+   1)   1.087 us    |  alloc_pages_current();
+   1)   0.665 us    |  alloc_pages_current();
+   1)   1.017 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   cron-8856    =>  compiz-2038  
+ ------------------------------------------
+
+   0)   1.136 us    |  alloc_pages_current();
+   0)   0.594 us    |  alloc_pages_current();
+   0)   0.810 us    |  alloc_pages_current();
+   0)   0.585 us    |  alloc_pages_current();
+   0)   0.677 us    |  alloc_pages_current();
+   0)   0.778 us    |  alloc_pages_current();
+   0)   0.661 us    |  alloc_pages_current();
+   0)   0.582 us    |  alloc_pages_current();
+   0)   0.638 us    |  alloc_pages_current();
+   0)   0.462 us    |  alloc_pages_current();
+   0)   0.753 us    |  alloc_pages_current();
+   0)   0.660 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  systemd-365   =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   1.036 us    |  alloc_pages_current();
+   0)   1.006 us    |  alloc_pages_current();
+   0)   0.522 us    |  alloc_pages_current();
+   0)   0.688 us    |  alloc_pages_current();
+   1)   0.739 us    |  alloc_pages_current();
+   1)   0.997 us    |  alloc_pages_current();
+   1)   1.400 us    |  alloc_pages_current();
+   1)   0.928 us    |  alloc_pages_current();
+   1)   0.878 us    |  alloc_pages_current();
+   1)   1.081 us    |  alloc_pages_current();
+   1)   0.648 us    |  alloc_pages_current();
+   1)   0.523 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8716  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.025 us    |  alloc_pages_current();
+   1)   0.962 us    |  alloc_pages_current();
+   1)   0.938 us    |  alloc_pages_current();
+   1)   0.600 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)    sh-8857     =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   1.941 us    |  alloc_pages_current();
+   3)   0.871 us    |  alloc_pages_current();
+   3)   2.043 us    |  alloc_pages_current();
+   3)   1.358 us    |  alloc_pages_current();
+   3)   0.991 us    |  alloc_pages_current();
+   3)   0.718 us    |  alloc_pages_current();
+   3)   0.944 us    |  alloc_pages_current();
+   3)   0.879 us    |  alloc_pages_current();
+   3)   0.862 us    |  alloc_pages_current();
+   3)   0.695 us    |  alloc_pages_current();
+   3)   1.126 us    |  alloc_pages_current();
+   3)   0.626 us    |  alloc_pages_current();
+   3)   0.520 us    |  alloc_pages_current();
+   3)   0.880 us    |  alloc_pages_current();
+   3)   0.915 us    |  alloc_pages_current();
+   3)   0.941 us    |  alloc_pages_current();
+   3)   0.665 us    |  alloc_pages_current();
+   3)   0.739 us    |  alloc_pages_current();
+   3)   1.262 us    |  alloc_pages_current();
+   3)   0.588 us    |  alloc_pages_current();
+   3)   0.654 us    |  alloc_pages_current();
+   3)   0.828 us    |  alloc_pages_current();
+   3)   0.909 us    |  alloc_pages_current();
+   3)   0.951 us    |  alloc_pages_current();
+   3)   0.876 us    |  alloc_pages_current();
+   3)   0.893 us    |  alloc_pages_current();
+   3)   0.662 us    |  alloc_pages_current();
+   3)   0.346 us    |  alloc_pages_current();
+   3)   0.931 us    |  alloc_pages_current();
+   3)   0.784 us    |  alloc_pages_current();
+   3)   0.777 us    |  alloc_pages_current();
+   3)   1.122 us    |  alloc_pages_current();
+   3)   0.835 us    |  alloc_pages_current();
+   3)   0.934 us    |  alloc_pages_current();
+   3)   0.868 us    |  alloc_pages_current();
+   3)   0.813 us    |  alloc_pages_current();
+   3)   0.806 us    |  alloc_pages_current();
+   3)   0.803 us    |  alloc_pages_current();
+   3)   0.574 us    |  alloc_pages_current();
+   3)   0.492 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  kworker-8716 
+ ------------------------------------------
+
+   2)   1.788 us    |  alloc_pages_current();
+   1)   0.987 us    |  alloc_pages_current();
+   1)   0.880 us    |  alloc_pages_current();
+   1)   0.815 us    |  alloc_pages_current();
+   1)   1.071 us    |  alloc_pages_current();
+   1)   0.770 us    |  alloc_pages_current();
+   1)   0.686 us    |  alloc_pages_current();
+   1)   1.511 us    |  alloc_pages_current();
+   1)   1.103 us    |  alloc_pages_current();
+   1)   0.914 us    |  alloc_pages_current();
+   1)   0.923 us    |  alloc_pages_current();
+   1)   0.856 us    |  alloc_pages_current();
+   1)   0.800 us    |  alloc_pages_current();
+   1)   0.830 us    |  alloc_pages_current();
+   1)   0.453 us    |  alloc_pages_current();
+   1)   0.343 us    |  alloc_pages_current();
+   1)   0.617 us    |  alloc_pages_current();
+   1)   1.277 us    |  alloc_pages_current();
+   1)   0.879 us    |  alloc_pages_current();
+   1)   0.799 us    |  alloc_pages_current();
+   1)   0.890 us    |  alloc_pages_current();
+   1)   0.927 us    |  alloc_pages_current();
+   1)   0.663 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  jbd2/sd-330  
+ ------------------------------------------
+
+   1)   0.888 us    |  alloc_pages_current();
+   1)   2.085 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  jbd2/sd-330   =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.327 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  jbd2/sd-330  
+ ------------------------------------------
+
+   1)   0.350 us    |  alloc_pages_current();
+   1)   0.949 us    |  alloc_pages_current();
+   1)   0.874 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8619 
+ ------------------------------------------
+
+   1) + 49.194 us   |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.754 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.976 us    |  alloc_pages_current();
+   1)   0.636 us    |  alloc_pages_current();
+   1)   0.714 us    |  alloc_pages_current();
+   1)   0.713 us    |  alloc_pages_current();
+   1)   0.400 us    |  alloc_pages_current();
+   1)   0.771 us    |  alloc_pages_current();
+   1)   0.658 us    |  alloc_pages_current();
+   1)   0.816 us    |  alloc_pages_current();
+   1)   1.115 us    |  alloc_pages_current();
+   1)   0.925 us    |  alloc_pages_current();
+   1)   0.487 us    |  alloc_pages_current();
+   1)   0.358 us    |  alloc_pages_current();
+   1)   0.509 us    |  alloc_pages_current();
+   1)   0.789 us    |  alloc_pages_current();
+   1)   0.941 us    |  alloc_pages_current();
+   1)   1.441 us    |  alloc_pages_current();
+   1)   0.798 us    |  alloc_pages_current();
+   1)   0.564 us    |  alloc_pages_current();
+   1)   1.183 us    |  alloc_pages_current();
+   1)   0.788 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.412 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.686 us    |  alloc_pages_current();
+   1)   0.493 us    |  alloc_pages_current();
+   1)   0.292 us    |  alloc_pages_current();
+   1)   0.263 us    |  alloc_pages_current();
+   1)   0.445 us    |  alloc_pages_current();
+   1)   0.309 us    |  alloc_pages_current();
+   1)   0.254 us    |  alloc_pages_current();
+   1)   0.703 us    |  alloc_pages_current();
+   1)   2.877 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>  JS Help-2776 
+ ------------------------------------------
+
+   1)   3.063 us    |  alloc_pages_current();
+   1)   0.184 us    |  alloc_pages_current();
+   1)   0.135 us    |  alloc_pages_current();
+   1)   0.164 us    |  alloc_pages_current();
+   1)   0.118 us    |  alloc_pages_current();
+   1)   0.169 us    |  alloc_pages_current();
+   1)   0.143 us    |  alloc_pages_current();
+   1)   0.184 us    |  alloc_pages_current();
+   1)   0.123 us    |  alloc_pages_current();
+   1)   0.168 us    |  alloc_pages_current();
+   1)   0.118 us    |  alloc_pages_current();
+   1)   0.184 us    |  alloc_pages_current();
+   1)   0.905 us    |  alloc_pages_current();
+   1)   0.199 us    |  alloc_pages_current();
+   1)   0.106 us    |  alloc_pages_current();
+   1)   0.842 us    |  alloc_pages_current();
+   1)   0.122 us    |  alloc_pages_current();
+   1)   0.170 us    |  alloc_pages_current();
+   1)   0.258 us    |  alloc_pages_current();
+   1)   0.143 us    |  alloc_pages_current();
+   1)   2.423 us    |  alloc_pages_current();
+   1)   0.239 us    |  alloc_pages_current();
+   1)   0.243 us    |  alloc_pages_current();
+   1)   0.233 us    |  alloc_pages_current();
+   1)   0.114 us    |  alloc_pages_current();
+   1)   0.212 us    |  alloc_pages_current();
+   1)   0.225 us    |  alloc_pages_current();
+   1)   0.133 us    |  alloc_pages_current();
+   1)   0.244 us    |  alloc_pages_current();
+   1)   0.144 us    |  alloc_pages_current();
+   1)   0.259 us    |  alloc_pages_current();
+   1)   0.236 us    |  alloc_pages_current();
+   1)   0.135 us    |  alloc_pages_current();
+   1)   0.189 us    |  alloc_pages_current();
+   1)   0.254 us    |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.213 us    |  alloc_pages_current();
+   1)   0.263 us    |  alloc_pages_current();
+   1)   0.208 us    |  alloc_pages_current();
+   1)   0.126 us    |  alloc_pages_current();
+   1)   0.162 us    |  alloc_pages_current();
+   1)   0.240 us    |  alloc_pages_current();
+   1)   0.160 us    |  alloc_pages_current();
+   1)   0.199 us    |  alloc_pages_current();
+   1)   0.128 us    |  alloc_pages_current();
+   1)   0.165 us    |  alloc_pages_current();
+   1)   0.117 us    |  alloc_pages_current();
+   1)   0.221 us    |  alloc_pages_current();
+   1)   0.117 us    |  alloc_pages_current();
+   1)   0.274 us    |  alloc_pages_current();
+   1)   0.138 us    |  alloc_pages_current();
+   1)   0.265 us    |  alloc_pages_current();
+   1)   0.108 us    |  alloc_pages_current();
+   1)   0.246 us    |  alloc_pages_current();
+   1)   0.153 us    |  alloc_pages_current();
+   1)   0.203 us    |  alloc_pages_current();
+   1)   0.136 us    |  alloc_pages_current();
+   1)   0.262 us    |  alloc_pages_current();
+   1)   0.138 us    |  alloc_pages_current();
+   1)   0.263 us    |  alloc_pages_current();
+   1)   0.127 us    |  alloc_pages_current();
+   1)   0.258 us    |  alloc_pages_current();
+   1)   0.111 us    |  alloc_pages_current();
+   1)   0.186 us    |  alloc_pages_current();
+   1)   0.210 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.195 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.204 us    |  alloc_pages_current();
+   1)   0.224 us    |  alloc_pages_current();
+   1)   0.176 us    |  alloc_pages_current();
+   1)   0.225 us    |  alloc_pages_current();
+   1)   0.212 us    |  alloc_pages_current();
+   1)   0.196 us    |  alloc_pages_current();
+   1)   0.237 us    |  alloc_pages_current();
+   1)   0.155 us    |  alloc_pages_current();
+   1)   0.128 us    |  alloc_pages_current();
+   1)   0.197 us    |  alloc_pages_current();
+   1)   0.224 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  Web Con-2768 
+ ------------------------------------------
+
+   3)   0.325 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.100 us    |  alloc_pages_current();
+   3)   0.219 us    |  alloc_pages_current();
+   1)   0.206 us    |  alloc_pages_current();
+   1)   0.124 us    |  alloc_pages_current();
+   3)   0.220 us    |  alloc_pages_current();
+   1)   0.187 us    |  alloc_pages_current();
+   1)   0.117 us    |  alloc_pages_current();
+   3)   0.219 us    |  alloc_pages_current();
+   1)   0.176 us    |  alloc_pages_current();
+   3)   0.212 us    |  alloc_pages_current();
+   3)   0.167 us    |  alloc_pages_current();
+   1)   0.238 us    |  alloc_pages_current();
+   1)   0.094 us    |  alloc_pages_current();
+   3)   0.210 us    |  alloc_pages_current();
+   1)   0.227 us    |  alloc_pages_current();
+   1)   0.100 us    |  alloc_pages_current();
+   1)   0.192 us    |  alloc_pages_current();
+   1)   0.217 us    |  alloc_pages_current();
+   3)   0.234 us    |  alloc_pages_current();
+   1)   0.227 us    |  alloc_pages_current();
+   1)   0.091 us    |  alloc_pages_current();
+   3)   0.224 us    |  alloc_pages_current();
+   1)   0.176 us    |  alloc_pages_current();
+   1)   0.117 us    |  alloc_pages_current();
+   3)   0.202 us    |  alloc_pages_current();
+   3)   0.120 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   3)   0.198 us    |  alloc_pages_current();
+   1)   0.183 us    |  alloc_pages_current();
+   1)   0.097 us    |  alloc_pages_current();
+   1)   0.188 us    |  alloc_pages_current();
+   1)   0.127 us    |  alloc_pages_current();
+   1)   0.143 us    |  alloc_pages_current();
+   3)   0.206 us    |  alloc_pages_current();
+   1)   0.243 us    |  alloc_pages_current();
+   3)   0.248 us    |  alloc_pages_current();
+   3)   0.113 us    |  alloc_pages_current();
+   1)   0.205 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   3)   0.231 us    |  alloc_pages_current();
+   1)   0.206 us    |  alloc_pages_current();
+   1)   0.191 us    |  alloc_pages_current();
+   1)   0.145 us    |  alloc_pages_current();
+   1)   0.134 us    |  alloc_pages_current();
+   1)   0.236 us    |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.166 us    |  alloc_pages_current();
+   1)   0.107 us    |  alloc_pages_current();
+   1)   0.224 us    |  alloc_pages_current();
+   1)   0.099 us    |  alloc_pages_current();
+   1)   0.150 us    |  alloc_pages_current();
+   1)   0.100 us    |  alloc_pages_current();
+   1)   0.185 us    |  alloc_pages_current();
+   1)   0.106 us    |  alloc_pages_current();
+   1)   0.149 us    |  alloc_pages_current();
+   1)   0.094 us    |  alloc_pages_current();
+   1)   0.160 us    |  alloc_pages_current();
+   1)   0.090 us    |  alloc_pages_current();
+   1)   0.188 us    |  alloc_pages_current();
+   1)   0.102 us    |  alloc_pages_current();
+   1)   0.130 us    |  alloc_pages_current();
+   1)   0.098 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.088 us    |  alloc_pages_current();
+   1)   0.149 us    |  alloc_pages_current();
+   1)   0.095 us    |  alloc_pages_current();
+   1)   0.131 us    |  alloc_pages_current();
+   1)   0.088 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.132 us    |  alloc_pages_current();
+   1)   0.099 us    |  alloc_pages_current();
+   1)   0.123 us    |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.130 us    |  alloc_pages_current();
+   1)   0.112 us    |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.100 us    |  alloc_pages_current();
+   1)   0.119 us    |  alloc_pages_current();
+   1)   0.119 us    |  alloc_pages_current();
+   1)   0.124 us    |  alloc_pages_current();
+   1)   0.123 us    |  alloc_pages_current();
+   1)   0.109 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.107 us    |  alloc_pages_current();
+   1)   0.116 us    |  alloc_pages_current();
+   1)   0.108 us    |  alloc_pages_current();
+   1)   0.156 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   1)   0.112 us    |  alloc_pages_current();
+   1)   0.101 us    |  alloc_pages_current();
+   1)   0.111 us    |  alloc_pages_current();
+   1)   0.122 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.282 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  Web Con-2768  =>  JS Help-2777 
+ ------------------------------------------
+
+   3)   3.271 us    |  alloc_pages_current();
+   3)   0.175 us    |  alloc_pages_current();
+   3)   0.134 us    |  alloc_pages_current();
+   3)   0.134 us    |  alloc_pages_current();
+   3)   0.121 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   0.725 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   4.753 us    |  alloc_pages_current();
+   1)   1.058 us    |  alloc_pages_current();
+   1)   0.272 us    |  alloc_pages_current();
+   1)   0.207 us    |  alloc_pages_current();
+   1)   0.257 us    |  alloc_pages_current();
+   1)   0.206 us    |  alloc_pages_current();
+   1)   0.196 us    |  alloc_pages_current();
+   1)   0.211 us    |  alloc_pages_current();
+   1)   0.286 us    |  alloc_pages_current();
+   1)   0.202 us    |  alloc_pages_current();
+   1)   0.234 us    |  alloc_pages_current();
+   1)   0.215 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  compiz-2038   =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.615 us    |  alloc_pages_current();
+   0)   0.213 us    |  alloc_pages_current();
+   1)   0.430 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.246 us    |  alloc_pages_current();
+   1)   0.099 us    |  alloc_pages_current();
+   1)   0.769 us    |  alloc_pages_current();
+   1)   0.259 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>  JS Help-2776 
+ ------------------------------------------
+
+   1)   0.541 us    |  alloc_pages_current();
+   1)   0.327 us    |  alloc_pages_current();
+   1)   0.289 us    |  alloc_pages_current();
+   1)   0.195 us    |  alloc_pages_current();
+   1)   0.229 us    |  alloc_pages_current();
+   0)   0.600 us    |  alloc_pages_current();
+   0)   0.233 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   0.511 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2777  =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.713 us    |  alloc_pages_current();
+   3)   0.227 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.265 us    |  alloc_pages_current();
+   1)   0.836 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.732 us    |  alloc_pages_current();
+   1)   0.188 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  Web Con-2768  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.631 us    |  alloc_pages_current();
+   1)   0.425 us    |  alloc_pages_current();
+   1)   0.572 us    |  alloc_pages_current();
+   1)   0.583 us    |  alloc_pages_current();
+   1)   0.546 us    |  alloc_pages_current();
+   1)   0.685 us    |  alloc_pages_current();
+   1)   0.805 us    |  alloc_pages_current();
+   1)   0.596 us    |  alloc_pages_current();
+   1)   0.799 us    |  alloc_pages_current();
+   1)   0.818 us    |  alloc_pages_current();
+   0)   0.762 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+   0)   0.328 us    |  alloc_pages_current();
+   0)   0.288 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+   0)   0.197 us    |  alloc_pages_current();
+   0)   0.238 us    |  alloc_pages_current();
+   0)   0.236 us    |  alloc_pages_current();
+   3)   0.686 us    |  alloc_pages_current();
+   3)   0.445 us    |  alloc_pages_current();
+   1)   0.811 us    |  alloc_pages_current();
+   1)   0.583 us    |  alloc_pages_current();
+   1)   0.691 us    |  alloc_pages_current();
+   1)   0.812 us    |  alloc_pages_current();
+   1)   0.742 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   0.612 us    |  alloc_pages_current();
+   1)   0.117 us    |  alloc_pages_current();
+   3)   0.470 us    |  alloc_pages_current();
+   3)   0.112 us    |  alloc_pages_current();
+   3)   0.265 us    |  alloc_pages_current();
+   3)   0.101 us    |  alloc_pages_current();
+   3)   0.107 us    |  alloc_pages_current();
+   3)   0.118 us    |  alloc_pages_current();
+   3)   0.106 us    |  alloc_pages_current();
+   3)   0.105 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  Web Con-2768 
+ ------------------------------------------
+
+   1)   0.216 us    |  alloc_pages_current();
+   3)   0.754 us    |  alloc_pages_current();
+   3)   0.206 us    |  alloc_pages_current();
+   3)   0.320 us    |  alloc_pages_current();
+   3)   0.203 us    |  alloc_pages_current();
+   3)   0.212 us    |  alloc_pages_current();
+   1)   0.770 us    |  alloc_pages_current();
+   1)   0.229 us    |  alloc_pages_current();
+   1)   0.215 us    |  alloc_pages_current();
+   3)   0.523 us    |  alloc_pages_current();
+   3)   0.232 us    |  alloc_pages_current();
+   3)   0.462 us    |  alloc_pages_current();
+   3)   0.222 us    |  alloc_pages_current();
+   3)   0.218 us    |  alloc_pages_current();
+   3)   0.217 us    |  alloc_pages_current();
+   3)   0.243 us    |  alloc_pages_current();
+   3)   0.216 us    |  alloc_pages_current();
+   3)   0.299 us    |  alloc_pages_current();
+   3)   0.223 us    |  alloc_pages_current();
+   3)   0.247 us    |  alloc_pages_current();
+   3)   0.246 us    |  alloc_pages_current();
+   3)   0.220 us    |  alloc_pages_current();
+   3)   0.203 us    |  alloc_pages_current();
+   3)   0.311 us    |  alloc_pages_current();
+   3)   0.223 us    |  alloc_pages_current();
+   3)   0.198 us    |  alloc_pages_current();
+   3)   0.264 us    |  alloc_pages_current();
+   3)   0.204 us    |  alloc_pages_current();
+   3)   0.247 us    |  alloc_pages_current();
+   3)   0.228 us    |  alloc_pages_current();
+   3)   0.226 us    |  alloc_pages_current();
+   3)   0.204 us    |  alloc_pages_current();
+   3)   0.311 us    |  alloc_pages_current();
+   3)   0.247 us    |  alloc_pages_current();
+   3)   0.209 us    |  alloc_pages_current();
+   3)   0.229 us    |  alloc_pages_current();
+   3)   0.256 us    |  alloc_pages_current();
+   3)   0.188 us    |  alloc_pages_current();
+   3)   0.240 us    |  alloc_pages_current();
+   3)   0.207 us    |  alloc_pages_current();
+   3)   0.184 us    |  alloc_pages_current();
+   3)   0.206 us    |  alloc_pages_current();
+   3)   0.213 us    |  alloc_pages_current();
+   3)   0.211 us    |  alloc_pages_current();
+   0)   0.708 us    |  alloc_pages_current();
+   0)   0.239 us    |  alloc_pages_current();
+   0)   0.218 us    |  alloc_pages_current();
+   3)   0.418 us    |  alloc_pages_current();
+   3)   0.255 us    |  alloc_pages_current();
+   3)   0.190 us    |  alloc_pages_current();
+   3)   0.122 us    |  alloc_pages_current();
+   3)   0.111 us    |  alloc_pages_current();
+   3)   0.137 us    |  alloc_pages_current();
+   3)   0.101 us    |  alloc_pages_current();
+   3)   0.124 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.274 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.067 us    |  alloc_pages_current();
+   1)   0.791 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>  pulseau-2029 
+ ------------------------------------------
+
+   0)   0.938 us    |  alloc_pages_current();
+   1)   0.828 us    |  alloc_pages_current();
+   1)   0.794 us    |  alloc_pages_current();
+   1)   0.924 us    |  alloc_pages_current();
+   1)   0.788 us    |  alloc_pages_current();
+   1)   0.617 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>  compiz-2038  
+ ------------------------------------------
+
+   3)   1.459 us    |  alloc_pages_current();
+   3)   5.926 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  kworker-8716  =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   1.254 us    |  alloc_pages_current();
+   1)   0.667 us    |  alloc_pages_current();
+   1)   0.382 us    |  alloc_pages_current();
+   1)   1.154 us    |  alloc_pages_current();
+   1)   0.831 us    |  alloc_pages_current();
+   3)   1.511 us    |  alloc_pages_current();
+   3)   1.184 us    |  alloc_pages_current();
+   2)   1.213 us    |  alloc_pages_current();
+   1)   1.112 us    |  alloc_pages_current();
+   1)   0.682 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  pulseau-2029  =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.702 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+   0)   0.415 us    |  alloc_pages_current();
+   0)   0.265 us    |  alloc_pages_current();
+   0)   0.239 us    |  alloc_pages_current();
+   0)   0.337 us    |  alloc_pages_current();
+   0)   0.216 us    |  alloc_pages_current();
+   0)   0.234 us    |  alloc_pages_current();
+   0)   0.251 us    |  alloc_pages_current();
+   0)   0.220 us    |  alloc_pages_current();
+   0)   0.205 us    |  alloc_pages_current();
+   0)   0.325 us    |  alloc_pages_current();
+   0)   0.229 us    |  alloc_pages_current();
+   0)   0.231 us    |  alloc_pages_current();
+   0)   0.223 us    |  alloc_pages_current();
+   0)   0.246 us    |  alloc_pages_current();
+   0)   0.228 us    |  alloc_pages_current();
+   0)   0.333 us    |  alloc_pages_current();
+   0)   0.202 us    |  alloc_pages_current();
+   0)   0.196 us    |  alloc_pages_current();
+   0)   0.258 us    |  alloc_pages_current();
+   0)   0.249 us    |  alloc_pages_current();
+   0)   0.227 us    |  alloc_pages_current();
+   0)   0.404 us    |  alloc_pages_current();
+   0)   0.229 us    |  alloc_pages_current();
+   0)   0.230 us    |  alloc_pages_current();
+   0)   0.241 us    |  alloc_pages_current();
+   0)   0.237 us    |  alloc_pages_current();
+   0)   0.208 us    |  alloc_pages_current();
+   0)   0.325 us    |  alloc_pages_current();
+   0)   2.458 us    |  alloc_pages_current();
+   0)   0.231 us    |  alloc_pages_current();
+   0)   0.182 us    |  alloc_pages_current();
+   0)   0.300 us    |  alloc_pages_current();
+   0)   0.216 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.477 us    |  alloc_pages_current();
+   3)   0.239 us    |  alloc_pages_current();
+   3)   0.228 us    |  alloc_pages_current();
+   0)   0.513 us    |  alloc_pages_current();
+   0)   0.211 us    |  alloc_pages_current();
+   0)   0.220 us    |  alloc_pages_current();
+   3)   0.333 us    |  alloc_pages_current();
+   3)   0.126 us    |  alloc_pages_current();
+   3)   0.122 us    |  alloc_pages_current();
+   0)   0.468 us    |  alloc_pages_current();
+   0)   0.107 us    |  alloc_pages_current();
+   0)   0.204 us    |  alloc_pages_current();
+   0)   0.107 us    |  alloc_pages_current();
+   0)   0.116 us    |  alloc_pages_current();
+   0)   0.124 us    |  alloc_pages_current();
+   0)   0.118 us    |  alloc_pages_current();
+   0)   0.110 us    |  alloc_pages_current();
+   0)   0.190 us    |  alloc_pages_current();
+   0)   0.124 us    |  alloc_pages_current();
+   0)   0.101 us    |  alloc_pages_current();
+   0)   0.126 us    |  alloc_pages_current();
+   0)   0.110 us    |  alloc_pages_current();
+   0)   0.125 us    |  alloc_pages_current();
+   0)   0.112 us    |  alloc_pages_current();
+   0)   0.117 us    |  alloc_pages_current();
+   0)   0.115 us    |  alloc_pages_current();
+   0)   0.171 us    |  alloc_pages_current();
+   0)   0.201 us    |  alloc_pages_current();
+   0)   0.120 us    |  alloc_pages_current();
+   0)   0.254 us    |  alloc_pages_current();
+   0)   0.151 us    |  alloc_pages_current();
+   0)   0.160 us    |  alloc_pages_current();
+   0)   0.252 us    |  alloc_pages_current();
+   0)   4.771 us    |  alloc_pages_current();
+   0)   0.101 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  JS Help-2776 
+ ------------------------------------------
+
+   1)   0.678 us    |  alloc_pages_current();
+   1)   0.335 us    |  alloc_pages_current();
+   1)   0.267 us    |  alloc_pages_current();
+   1)   0.180 us    |  alloc_pages_current();
+   1)   0.181 us    |  alloc_pages_current();
+   1)   0.250 us    |  alloc_pages_current();
+   1)   0.201 us    |  alloc_pages_current();
+   1)   0.203 us    |  alloc_pages_current();
+   0)   0.416 us    |  alloc_pages_current();
+   0)   0.124 us    |  alloc_pages_current();
+   0)   0.092 us    |  alloc_pages_current();
+   1)   0.682 us    |  alloc_pages_current();
+   1)   0.286 us    |  alloc_pages_current();
+   1)   0.226 us    |  alloc_pages_current();
+   0)   4.122 us    |  alloc_pages_current();
+   0)   0.281 us    |  alloc_pages_current();
+   0)   0.354 us    |  alloc_pages_current();
+   0)   0.218 us    |  alloc_pages_current();
+   0)   0.247 us    |  alloc_pages_current();
+   0)   0.169 us    |  alloc_pages_current();
+   0)   0.216 us    |  alloc_pages_current();
+   0)   0.203 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  kworker-8619 
+ ------------------------------------------
+
+   2)   0.649 us    |  alloc_pages_current();
+   1)   0.644 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.221 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   1.051 us    |  alloc_pages_current();
+   1)   0.281 us    |  alloc_pages_current();
+   1)   0.260 us    |  alloc_pages_current();
+   1)   0.203 us    |  alloc_pages_current();
+   1)   0.231 us    |  alloc_pages_current();
+   1)   0.303 us    |  alloc_pages_current();
+   1)   0.204 us    |  alloc_pages_current();
+   1)   0.184 us    |  alloc_pages_current();
+   0)   0.566 us    |  alloc_pages_current();
+   0)   0.189 us    |  alloc_pages_current();
+   1)   0.436 us    |  alloc_pages_current();
+   1)   0.190 us    |  alloc_pages_current();
+   1)   0.195 us    |  alloc_pages_current();
+   1)   0.166 us    |  alloc_pages_current();
+   1)   0.148 us    |  alloc_pages_current();
+   0)   0.964 us    |  alloc_pages_current();
+   0)   0.336 us    |  alloc_pages_current();
+   0)   0.318 us    |  alloc_pages_current();
+   0)   0.258 us    |  alloc_pages_current();
+   0)   0.212 us    |  alloc_pages_current();
+   0)   5.503 us    |  alloc_pages_current();
+   0)   0.336 us    |  alloc_pages_current();
+   0)   0.217 us    |  alloc_pages_current();
+   0)   0.252 us    |  alloc_pages_current();
+   0)   0.240 us    |  alloc_pages_current();
+   0)   0.240 us    |  alloc_pages_current();
+   0)   0.385 us    |  alloc_pages_current();
+   0)   0.237 us    |  alloc_pages_current();
+   0)   0.197 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+   0)   0.239 us    |  alloc_pages_current();
+   0)   0.209 us    |  alloc_pages_current();
+   0)   2.527 us    |  alloc_pages_current();
+   0)   0.467 us    |  alloc_pages_current();
+   0)   0.283 us    |  alloc_pages_current();
+   0)   0.407 us    |  alloc_pages_current();
+   0)   0.245 us    |  alloc_pages_current();
+   0)   0.269 us    |  alloc_pages_current();
+   0)   0.283 us    |  alloc_pages_current();
+   0)   0.211 us    |  alloc_pages_current();
+   0)   0.372 us    |  alloc_pages_current();
+   0)   0.259 us    |  alloc_pages_current();
+   0)   0.265 us    |  alloc_pages_current();
+   0)   0.244 us    |  alloc_pages_current();
+   0)   0.279 us    |  alloc_pages_current();
+   0)   0.229 us    |  alloc_pages_current();
+   0)   0.333 us    |  alloc_pages_current();
+   0)   0.199 us    |  alloc_pages_current();
+   0)   0.232 us    |  alloc_pages_current();
+   0)   0.215 us    |  alloc_pages_current();
+   0)   0.189 us    |  alloc_pages_current();
+   0)   0.222 us    |  alloc_pages_current();
+   0)   0.282 us    |  alloc_pages_current();
+   0)   0.187 us    |  alloc_pages_current();
+   0)   0.232 us    |  alloc_pages_current();
+   0)   0.221 us    |  alloc_pages_current();
+   0)   0.355 us    |  alloc_pages_current();
+   0)   0.225 us    |  alloc_pages_current();
+   0)   0.192 us    |  alloc_pages_current();
+   0)   0.208 us    |  alloc_pages_current();
+   0)   0.363 us    |  alloc_pages_current();
+   0)   0.239 us    |  alloc_pages_current();
+   0)   0.355 us    |  alloc_pages_current();
+   0)   0.233 us    |  alloc_pages_current();
+   0)   0.334 us    |  alloc_pages_current();
+   0)   0.211 us    |  alloc_pages_current();
+   0)   0.317 us    |  alloc_pages_current();
+   0)   0.243 us    |  alloc_pages_current();
+   0)   0.380 us    |  alloc_pages_current();
+   0)   0.226 us    |  alloc_pages_current();
+   0)   0.244 us    |  alloc_pages_current();
+   0)   0.244 us    |  alloc_pages_current();
+   0)   0.380 us    |  alloc_pages_current();
+   0)   0.256 us    |  alloc_pages_current();
+   0)   0.258 us    |  alloc_pages_current();
+   0)   0.242 us    |  alloc_pages_current();
+   0)   0.368 us    |  alloc_pages_current();
+   0)   0.228 us    |  alloc_pages_current();
+   2)   1.061 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.682 us    |  alloc_pages_current();
+   1)   0.405 us    |  alloc_pages_current();
+   1)   0.486 us    |  alloc_pages_current();
+   1)   0.993 us    |  alloc_pages_current();
+   1)   1.006 us    |  alloc_pages_current();
+   1)   0.874 us    |  alloc_pages_current();
+   1)   0.420 us    |  alloc_pages_current();
+   1)   1.087 us    |  alloc_pages_current();
+   1)   0.772 us    |  alloc_pages_current();
+   1)   0.669 us    |  alloc_pages_current();
+   1)   0.832 us    |  alloc_pages_current();
+   1)   0.816 us    |  alloc_pages_current();
+   1)   0.578 us    |  alloc_pages_current();
+   1)   0.472 us    |  alloc_pages_current();
+   1)   0.852 us    |  alloc_pages_current();
+   1)   0.747 us    |  alloc_pages_current();
+   1)   0.727 us    |  alloc_pages_current();
+   1)   0.764 us    |  alloc_pages_current();
+   1)   0.853 us    |  alloc_pages_current();
+   1)   0.669 us    |  alloc_pages_current();
+   1)   0.879 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>  pulseau-2029 
+ ------------------------------------------
+
+   0)   5.659 us    |  alloc_pages_current();
+   1)   0.830 us    |  alloc_pages_current();
+   1)   0.825 us    |  alloc_pages_current();
+   1)   0.648 us    |  alloc_pages_current();
+   1)   0.539 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.554 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>   Xorg-1087   
+ ------------------------------------------
+
+   1)   1.043 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.757 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  compiz-2038  
+ ------------------------------------------
+
+   3)   1.251 us    |  alloc_pages_current();
+   3)   1.093 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  kworker-8619  =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   1.051 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.606 us    |  alloc_pages_current();
+   3)   0.540 us    |  alloc_pages_current();
+   3)   0.807 us    |  alloc_pages_current();
+   3)   0.738 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.622 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  compiz-2038  
+ ------------------------------------------
+
+   2)   1.483 us    |  alloc_pages_current();
+   2)   1.026 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  compiz-2038   =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   2.235 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.723 us    |  alloc_pages_current();
+   3)   0.718 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  Web Con-2768 
+ ------------------------------------------
+
+   2)   0.675 us    |  alloc_pages_current();
+   2)   0.179 us    |  alloc_pages_current();
+   3)   0.759 us    |  alloc_pages_current();
+   3)   0.424 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.373 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   Xorg-1087    =>  compiz-2038  
+ ------------------------------------------
+
+   1)   1.287 us    |  alloc_pages_current();
+   1)   0.981 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  Web Con-2768  =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   1.118 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.808 us    |  alloc_pages_current();
+   3)   0.772 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  kworker-8716 
+ ------------------------------------------
+
+   2)   1.045 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  compiz-2038   =>  JS Help-2776 
+ ------------------------------------------
+
+   1)   0.616 us    |  alloc_pages_current();
+   1)   0.245 us    |  alloc_pages_current();
+   1)   0.388 us    |  alloc_pages_current();
+   1)   0.231 us    |  alloc_pages_current();
+   1)   0.232 us    |  alloc_pages_current();
+   1)   0.212 us    |  alloc_pages_current();
+   1)   0.291 us    |  alloc_pages_current();
+   1)   0.224 us    |  alloc_pages_current();
+   1)   0.459 us    |  alloc_pages_current();
+   1)   0.248 us    |  alloc_pages_current();
+   1)   0.193 us    |  alloc_pages_current();
+   1)   0.324 us    |  alloc_pages_current();
+   1)   0.194 us    |  alloc_pages_current();
+   1)   0.210 us    |  alloc_pages_current();
+   1)   0.225 us    |  alloc_pages_current();
+   1)   0.221 us    |  alloc_pages_current();
+   1)   0.262 us    |  alloc_pages_current();
+   1)   0.338 us    |  alloc_pages_current();
+   1)   0.235 us    |  alloc_pages_current();
+   1)   0.210 us    |  alloc_pages_current();
+   1)   0.252 us    |  alloc_pages_current();
+   1)   0.254 us    |  alloc_pages_current();
+   1)   0.190 us    |  alloc_pages_current();
+   1)   0.334 us    |  alloc_pages_current();
+   1)   0.211 us    |  alloc_pages_current();
+   1)   0.190 us    |  alloc_pages_current();
+   1)   0.237 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.222 us    |  alloc_pages_current();
+   1)   0.375 us    |  alloc_pages_current();
+   1)   0.238 us    |  alloc_pages_current();
+   1)   0.216 us    |  alloc_pages_current();
+   3)   0.753 us    |  alloc_pages_current();
+   3)   0.947 us    |  alloc_pages_current();
+   3)   0.586 us    |  alloc_pages_current();
+   3)   0.512 us    |  alloc_pages_current();
+   3)   0.631 us    |  alloc_pages_current();
+   3)   0.607 us    |  alloc_pages_current();
+   3)   0.814 us    |  alloc_pages_current();
+   3)   0.422 us    |  alloc_pages_current();
+   3)   0.413 us    |  alloc_pages_current();
+   3)   0.630 us    |  alloc_pages_current();
+   3)   0.842 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.591 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  kworker-8716  =>   gdbus-1867  
+ ------------------------------------------
+
+   2)   0.916 us    |  alloc_pages_current();
+   2)   0.834 us    |  alloc_pages_current();
+   2)   0.802 us    |  alloc_pages_current();
+   2)   0.663 us    |  alloc_pages_current();
+   2)   0.940 us    |  alloc_pages_current();
+   2)   0.780 us    |  alloc_pages_current();
+   2)   0.710 us    |  alloc_pages_current();
+   2)   0.702 us    |  alloc_pages_current();
+   2)   0.857 us    |  alloc_pages_current();
+   2)   0.618 us    |  alloc_pages_current();
+   3)   0.878 us    |  alloc_pages_current();
+   2)   0.733 us    |  alloc_pages_current();
+   2)   0.656 us    |  alloc_pages_current();
+   2)   0.774 us    |  alloc_pages_current();
+   2)   0.841 us    |  alloc_pages_current();
+   2)   0.834 us    |  alloc_pages_current();
+   2)   0.590 us    |  alloc_pages_current();
+   2)   0.433 us    |  alloc_pages_current();
+   2)   0.451 us    |  alloc_pages_current();
+   2)   0.441 us    |  alloc_pages_current();
+   2)   0.306 us    |  alloc_pages_current();
+   3)   0.446 us    |  alloc_pages_current();
+   3)   0.337 us    |  alloc_pages_current();
+   3)   0.145 us    |  alloc_pages_current();
+   0)   0.389 us    |  alloc_pages_current();
+   2)   0.848 us    |  alloc_pages_current();
+   2)   0.635 us    |  alloc_pages_current();
+   2)   0.822 us    |  alloc_pages_current();
+   2)   0.754 us    |  alloc_pages_current();
+   2)   0.670 us    |  alloc_pages_current();
+   2)   0.707 us    |  alloc_pages_current();
+   2)   0.927 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.612 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.564 us    |  alloc_pages_current();
+   3)   0.448 us    |  alloc_pages_current();
+   3)   0.249 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.611 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)   gdbus-1867   =>  compiz-2038  
+ ------------------------------------------
+
+   2)   1.183 us    |  alloc_pages_current();
+   2)   1.046 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  compiz-2038   =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   0.960 us    |  alloc_pages_current();
+   3)   0.284 us    |  alloc_pages_current();
+   3)   0.250 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  Web Con-2768 
+ ------------------------------------------
+
+   2)   0.427 us    |  alloc_pages_current();
+   2)   0.104 us    |  alloc_pages_current();
+   2)   0.091 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.113 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.682 us    |  alloc_pages_current();
+   3)   0.289 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.873 us    |  alloc_pages_current();
+   3)   0.487 us    |  alloc_pages_current();
+   3)   0.397 us    |  alloc_pages_current();
+   3)   0.349 us    |  alloc_pages_current();
+   3)   0.392 us    |  alloc_pages_current();
+   3)   0.699 us    |  alloc_pages_current();
+   3)   0.778 us    |  alloc_pages_current();
+   3)   0.432 us    |  alloc_pages_current();
+   3)   0.232 us    |  alloc_pages_current();
+   3)   0.454 us    |  alloc_pages_current();
+   3)   0.388 us    |  alloc_pages_current();
+   3)   0.513 us    |  alloc_pages_current();
+   3)   0.988 us    |  alloc_pages_current();
+   3)   0.729 us    |  alloc_pages_current();
+   3)   1.025 us    |  alloc_pages_current();
+   3)   0.897 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.586 us    |  alloc_pages_current();
+   3)   0.451 us    |  alloc_pages_current();
+   3)   0.261 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>  pulseau-2029 
+ ------------------------------------------
+
+   3)   0.500 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  pulseau-2029  =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.451 us    |  alloc_pages_current();
+   3)   0.322 us    |  alloc_pages_current();
+   3)   0.242 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.758 us    |  alloc_pages_current();
+   3)   0.813 us    |  alloc_pages_current();
+   3)   0.757 us    |  alloc_pages_current();
+   3)   0.914 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.593 us    |  alloc_pages_current();
+   3)   0.491 us    |  alloc_pages_current();
+   3)   0.220 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>  pulseau-2029 
+ ------------------------------------------
+
+   3)   0.378 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  pulseau-2029  =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.407 us    |  alloc_pages_current();
+   3)   0.564 us    |  alloc_pages_current();
+   3)   0.659 us    |  alloc_pages_current();
+   3)   0.966 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.536 us    |  alloc_pages_current();
+   3)   0.473 us    |  alloc_pages_current();
+   3)   0.252 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  pulseau-2029 
+ ------------------------------------------
+
+   1)   0.485 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.782 us    |  alloc_pages_current();
+   3)   0.764 us    |  alloc_pages_current();
+   3)   0.572 us    |  alloc_pages_current();
+   3)   0.769 us    |  alloc_pages_current();
+   3)   0.633 us    |  alloc_pages_current();
+   3)   0.712 us    |  alloc_pages_current();
+   3)   0.630 us    |  alloc_pages_current();
+   3)   0.762 us    |  alloc_pages_current();
+   3)   0.541 us    |  alloc_pages_current();
+   3)   0.402 us    |  alloc_pages_current();
+   3)   0.536 us    |  alloc_pages_current();
+   3)   0.526 us    |  alloc_pages_current();
+   3)   0.636 us    |  alloc_pages_current();
+   3)   0.773 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.577 us    |  alloc_pages_current();
+   3)   0.537 us    |  alloc_pages_current();
+   3)   0.258 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.829 us    |  alloc_pages_current();
+   3)   0.614 us    |  alloc_pages_current();
+   3)   0.734 us    |  alloc_pages_current();
+   3)   0.556 us    |  alloc_pages_current();
+   3)   0.644 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.507 us    |  alloc_pages_current();
+   3)   0.396 us    |  alloc_pages_current();
+   3)   0.167 us    |  alloc_pages_current();
+   1)   0.594 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.750 us    |  alloc_pages_current();
+   3)   1.017 us    |  alloc_pages_current();
+   3)   0.705 us    |  alloc_pages_current();
+   3)   0.824 us    |  alloc_pages_current();
+   3)   0.828 us    |  alloc_pages_current();
+   3)   0.767 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  pulseau-2029  =>   bash-8571   
+ ------------------------------------------
+
+   0)   0.695 us    |  alloc_pages_current();
+   0)   0.480 us    |  alloc_pages_current();
+   0)   0.267 us    |  alloc_pages_current();
+   3)   0.743 us    |  alloc_pages_current();
+   3)   0.825 us    |  alloc_pages_current();
+   3)   1.383 us    |  alloc_pages_current();
+   3)   0.897 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  Web Con-2768  =>  gnome-t-7207 
+ ------------------------------------------
+
+   2)   0.951 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.691 us    |  alloc_pages_current();
+   3)   0.300 us    |  alloc_pages_current();
+   3)   0.399 us    |  alloc_pages_current();
+   3)   0.399 us    |  alloc_pages_current();
+   3)   0.937 us    |  alloc_pages_current();
+   3)   0.728 us    |  alloc_pages_current();
+   3)   0.805 us    |  alloc_pages_current();
+   3)   0.747 us    |  alloc_pages_current();
+   0)   0.684 us    |  alloc_pages_current();
+   0)   0.456 us    |  alloc_pages_current();
+   0)   0.394 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  compiz-2038  
+ ------------------------------------------
+
+   3)   1.540 us    |  alloc_pages_current();
+   3)   1.013 us    |  alloc_pages_current();
+   2)   1.169 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.529 us    |  alloc_pages_current();
+   3)   0.409 us    |  alloc_pages_current();
+   3)   0.456 us    |  alloc_pages_current();
+   3)   0.447 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  pulseau-2029  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.065 us    |  alloc_pages_current();
+   3)   0.570 us    |  alloc_pages_current();
+   3)   0.811 us    |  alloc_pages_current();
+   0)   0.658 us    |  alloc_pages_current();
+   0)   0.433 us    |  alloc_pages_current();
+   0)   0.364 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  compiz-2038  
+ ------------------------------------------
+
+   1)   1.533 us    |  alloc_pages_current();
+   1)   1.244 us    |  alloc_pages_current();
+   2)   1.011 us    |  alloc_pages_current();
+   3)   0.669 us    |  alloc_pages_current();
+   3)   0.643 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  compiz-2038   =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   5.566 us    |  alloc_pages_current();
+   1)   0.419 us    |  alloc_pages_current();
+   1)   0.215 us    |  alloc_pages_current();
+   3)   0.390 us    |  alloc_pages_current();
+   3)   0.265 us    |  alloc_pages_current();
+   3)   0.503 us    |  alloc_pages_current();
+   3)   0.403 us    |  alloc_pages_current();
+   3)   0.695 us    |  alloc_pages_current();
+   3)   0.802 us    |  alloc_pages_current();
+   3)   0.553 us    |  alloc_pages_current();
+   3)   0.939 us    |  alloc_pages_current();
+   3)   0.474 us    |  alloc_pages_current();
+   3)   0.684 us    |  alloc_pages_current();
+   3)   0.811 us    |  alloc_pages_current();
+   3)   0.635 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   bash-8571    =>   gdbus-1867  
+ ------------------------------------------
+
+   0)   0.530 us    |  alloc_pages_current();
+   0)   0.330 us    |  alloc_pages_current();
+   0)   0.390 us    |  alloc_pages_current();
+   0)   0.287 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.749 us    |  alloc_pages_current();
+   3)   0.191 us    |  alloc_pages_current();
+   3)   0.229 us    |  alloc_pages_current();
+   0)   0.637 us    |  alloc_pages_current();
+   0)   0.463 us    |  alloc_pages_current();
+   0)   6.120 us    |  alloc_pages_current();
+   0)   0.654 us    |  alloc_pages_current();
+   0)   1.032 us    |  alloc_pages_current();
+   0)   0.678 us    |  alloc_pages_current();
+   1)   0.500 us    |  alloc_pages_current();
+   1)   0.125 us    |  alloc_pages_current();
+   1)   0.199 us    |  alloc_pages_current();
+   1)   0.131 us    |  alloc_pages_current();
+   1)   3.113 us    |  alloc_pages_current();
+   1)   0.210 us    |  alloc_pages_current();
+   1)   0.122 us    |  alloc_pages_current();
+   1)   0.112 us    |  alloc_pages_current();
+   1)   0.177 us    |  alloc_pages_current();
+   1)   0.113 us    |  alloc_pages_current();
+   1)   0.109 us    |  alloc_pages_current();
+   1) + 21.217 us   |  alloc_pages_current();
+   1)   0.113 us    |  alloc_pages_current();
+   1)   0.098 us    |  alloc_pages_current();
+   1)   0.140 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   1)   0.163 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   1)   0.101 us    |  alloc_pages_current();
+   1)   0.171 us    |  alloc_pages_current();
+   1)   0.112 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   1)   0.180 us    |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.203 us    |  alloc_pages_current();
+   1)   0.130 us    |  alloc_pages_current();
+   1)   0.101 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.103 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.101 us    |  alloc_pages_current();
+   1)   0.099 us    |  alloc_pages_current();
+   1)   0.100 us    |  alloc_pages_current();
+   1)   0.109 us    |  alloc_pages_current();
+   1)   0.121 us    |  alloc_pages_current();
+   1)   0.107 us    |  alloc_pages_current();
+   1)   0.161 us    |  alloc_pages_current();
+   1)   0.097 us    |  alloc_pages_current();
+   1)   0.111 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.104 us    |  alloc_pages_current();
+   1)   0.153 us    |  alloc_pages_current();
+   1)   0.107 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   1) + 20.383 us   |  alloc_pages_current();
+   1)   0.120 us    |  alloc_pages_current();
+   1)   0.146 us    |  alloc_pages_current();
+   1)   0.187 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   1)   0.082 us    |  alloc_pages_current();
+   1)   0.109 us    |  alloc_pages_current();
+   1)   0.172 us    |  alloc_pages_current();
+   1)   0.107 us    |  alloc_pages_current();
+   1)   0.103 us    |  alloc_pages_current();
+   1)   0.101 us    |  alloc_pages_current();
+   1)   0.108 us    |  alloc_pages_current();
+   1)   0.111 us    |  alloc_pages_current();
+   1)   0.216 us    |  alloc_pages_current();
+   1)   0.092 us    |  alloc_pages_current();
+   1)   0.119 us    |  alloc_pages_current();
+   1)   0.110 us    |  alloc_pages_current();
+   1)   0.115 us    |  alloc_pages_current();
+   1)   0.122 us    |  alloc_pages_current();
+   1)   0.202 us    |  alloc_pages_current();
+   1)   0.105 us    |  alloc_pages_current();
+   1)   0.176 us    |  alloc_pages_current();
+   1)   0.119 us    |  alloc_pages_current();
+   1)   0.161 us    |  alloc_pages_current();
+   1)   0.104 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   0.761 us    |  alloc_pages_current();
+   0)   0.908 us    |  alloc_pages_current();
+   0)   0.790 us    |  alloc_pages_current();
+   3)   0.784 us    |  alloc_pages_current();
+   3)   0.386 us    |  alloc_pages_current();
+   3)   0.270 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  pulseau-2029 
+ ------------------------------------------
+
+   1)   1.209 us    |  alloc_pages_current();
+   0)   0.505 us    |  alloc_pages_current();
+   0)   0.557 us    |  alloc_pages_current();
+   0)   1.148 us    |  alloc_pages_current();
+   0)   0.703 us    |  alloc_pages_current();
+   3)   0.745 us    |  alloc_pages_current();
+   3)   0.557 us    |  alloc_pages_current();
+   3)   0.227 us    |  alloc_pages_current();
+   0)   0.760 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  gnome-t-7207  =>  compiz-2038  
+ ------------------------------------------
+
+   2)   1.267 us    |  alloc_pages_current();
+   2)   1.308 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   gdbus-1867   =>  gnome-t-7207 
+ ------------------------------------------
+
+   0)   0.964 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  gnome-t-7207  =>   gdbus-1867  
+ ------------------------------------------
+
+   0)   0.390 us    |  alloc_pages_current();
+   0)   0.484 us    |  alloc_pages_current();
+   0)   1.080 us    |  alloc_pages_current();
+   0)   0.843 us    |  alloc_pages_current();
+   3)   0.892 us    |  alloc_pages_current();
+   3)   0.563 us    |  alloc_pages_current();
+   3)   0.330 us    |  alloc_pages_current();
+   2)   1.346 us    |  alloc_pages_current();
+   2)   1.100 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   gdbus-1867   =>  gnome-t-7207 
+ ------------------------------------------
+
+   0)   1.121 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  gnome-t-7207  =>   gdbus-1867  
+ ------------------------------------------
+
+   0)   0.754 us    |  alloc_pages_current();
+   0)   0.887 us    |  alloc_pages_current();
+   0)   0.848 us    |  alloc_pages_current();
+   0)   0.988 us    |  alloc_pages_current();
+   0)   0.970 us    |  alloc_pages_current();
+   0)   0.614 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  pulseau-2029  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.085 us    |  alloc_pages_current();
+   1)   0.693 us    |  alloc_pages_current();
+   1)   0.423 us    |  alloc_pages_current();
+   1)   0.410 us    |  alloc_pages_current();
+   1)   0.439 us    |  alloc_pages_current();
+   1)   0.485 us    |  alloc_pages_current();
+   1)   0.504 us    |  alloc_pages_current();
+   1)   0.413 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>  Web Con-2768 
+ ------------------------------------------
+
+   3)   0.476 us    |  alloc_pages_current();
+   3)   0.132 us    |  alloc_pages_current();
+   1)   0.716 us    |  alloc_pages_current();
+   1)   0.714 us    |  alloc_pages_current();
+   1)   0.713 us    |  alloc_pages_current();
+   1)   0.752 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  Web Con-2768  =>   bash-8571   
+ ------------------------------------------
+
+   3)   0.694 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   gdbus-1867   =>   bash-8571   
+ ------------------------------------------
+
+   0)   0.571 us    |  alloc_pages_current();
+   0)   0.322 us    |  alloc_pages_current();
+   1)   0.596 us    |  alloc_pages_current();
+   1)   0.800 us    |  alloc_pages_current();
+   1)   0.754 us    |  alloc_pages_current();
+   1)   0.770 us    |  alloc_pages_current();
+   1)   0.855 us    |  alloc_pages_current();
+   1)   0.839 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8619 
+ ------------------------------------------
+
+   1)   6.534 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.765 us    |  alloc_pages_current();
+   1)   0.757 us    |  alloc_pages_current();
+   1)   0.890 us    |  alloc_pages_current();
+   1)   0.760 us    |  alloc_pages_current();
+   0)   0.673 us    |  alloc_pages_current();
+   0)   0.360 us    |  alloc_pages_current();
+   0)   0.218 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   bash-8571    =>  pulseau-2029 
+ ------------------------------------------
+
+   3)   0.507 us    |  alloc_pages_current();
+   1)   0.909 us    |  alloc_pages_current();
+   1)   0.845 us    |  alloc_pages_current();
+   1)   0.861 us    |  alloc_pages_current();
+   1)   0.812 us    |  alloc_pages_current();
+   1)   0.512 us    |  alloc_pages_current();
+   1)   0.422 us    |  alloc_pages_current();
+   1)   0.490 us    |  alloc_pages_current();
+   1)   0.370 us    |  alloc_pages_current();
+   0)   0.848 us    |  alloc_pages_current();
+   0)   0.310 us    |  alloc_pages_current();
+   0)   0.158 us    |  alloc_pages_current();
+   1)   0.641 us    |  alloc_pages_current();
+   2)   1.083 us    |  alloc_pages_current();
+   2)   0.962 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   bash-8571    =>  gnome-t-7207 
+ ------------------------------------------
+
+   0)   0.994 us    |  alloc_pages_current();
+   1)   0.487 us    |  alloc_pages_current();
+   1)   1.357 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  gnome-t-7207  =>   bash-8571   
+ ------------------------------------------
+
+   0)   0.691 us    |  alloc_pages_current();
+   0)   0.539 us    |  alloc_pages_current();
+   0)   0.251 us    |  alloc_pages_current();
+   2)   1.059 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  gnome-t-7207 
+ ------------------------------------------
+
+   1)   1.019 us    |  alloc_pages_current();
+   2)   0.842 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  gnome-t-7207  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.222 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   bash-8571    =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.892 us    |  alloc_pages_current();
+   0)   0.235 us    |  alloc_pages_current();
+   0)   0.229 us    |  alloc_pages_current();
+   0)   0.277 us    |  alloc_pages_current();
+   0)   0.236 us    |  alloc_pages_current();
+   0)   0.257 us    |  alloc_pages_current();
+   0)   0.259 us    |  alloc_pages_current();
+   0)   0.209 us    |  alloc_pages_current();
+   0)   3.703 us    |  alloc_pages_current();
+   0)   0.308 us    |  alloc_pages_current();
+   0)   0.219 us    |  alloc_pages_current();
+   0)   0.230 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>  Web Con-2768 
+ ------------------------------------------
+
+   0)   0.583 us    |  alloc_pages_current();
+   0)   0.302 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.130 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   0.574 us    |  alloc_pages_current();
+   1)   0.284 us    |  alloc_pages_current();
+   1)   5.692 us    |  alloc_pages_current();
+   1)   0.309 us    |  alloc_pages_current();
+   1)   0.424 us    |  alloc_pages_current();
+   1)   4.362 us    |  alloc_pages_current();
+   1)   0.269 us    |  alloc_pages_current();
+   1)   0.279 us    |  alloc_pages_current();
+   1)   0.327 us    |  alloc_pages_current();
+   1)   0.240 us    |  alloc_pages_current();
+   1)   0.331 us    |  alloc_pages_current();
+   1)   0.265 us    |  alloc_pages_current();
+   1)   0.218 us    |  alloc_pages_current();
+   1)   0.383 us    |  alloc_pages_current();
+   1)   0.244 us    |  alloc_pages_current();
+   1)   0.234 us    |  alloc_pages_current();
+   1)   0.407 us    |  alloc_pages_current();
+   1)   0.239 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.242 us    |  alloc_pages_current();
+   1)   0.221 us    |  alloc_pages_current();
+   1)   0.219 us    |  alloc_pages_current();
+   1)   0.325 us    |  alloc_pages_current();
+   1)   0.205 us    |  alloc_pages_current();
+   1)   0.237 us    |  alloc_pages_current();
+   1)   0.175 us    |  alloc_pages_current();
+   1)   0.219 us    |  alloc_pages_current();
+   1)   0.240 us    |  alloc_pages_current();
+   1)   0.379 us    |  alloc_pages_current();
+   1)   0.222 us    |  alloc_pages_current();
+   1)   0.238 us    |  alloc_pages_current();
+   1)   0.222 us    |  alloc_pages_current();
+   1)   0.241 us    |  alloc_pages_current();
+   1)   0.214 us    |  alloc_pages_current();
+   1)   0.349 us    |  alloc_pages_current();
+   1)   0.189 us    |  alloc_pages_current();
+   1)   0.209 us    |  alloc_pages_current();
+   1)   0.255 us    |  alloc_pages_current();
+   1)   0.206 us    |  alloc_pages_current();
+   1)   0.424 us    |  alloc_pages_current();
+   1)   0.277 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.268 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  pulseau-2029  =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.819 us    |  alloc_pages_current();
+   3)   0.245 us    |  alloc_pages_current();
+   3)   0.227 us    |  alloc_pages_current();
+   3)   0.420 us    |  alloc_pages_current();
+   3)   0.227 us    |  alloc_pages_current();
+   3)   0.222 us    |  alloc_pages_current();
+   3)   0.219 us    |  alloc_pages_current();
+   3)   0.221 us    |  alloc_pages_current();
+   3)   0.214 us    |  alloc_pages_current();
+   3)   0.389 us    |  alloc_pages_current();
+   3)   0.196 us    |  alloc_pages_current();
+   3)   0.202 us    |  alloc_pages_current();
+   3)   0.224 us    |  alloc_pages_current();
+   3)   0.215 us    |  alloc_pages_current();
+   3)   0.208 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   6.252 us    |  alloc_pages_current();
+   1)   0.855 us    |  alloc_pages_current();
+   1)   0.909 us    |  alloc_pages_current();
+   1)   0.479 us    |  alloc_pages_current();
+   1)   0.772 us    |  alloc_pages_current();
+   1)   0.874 us    |  alloc_pages_current();
+   1)   1.035 us    |  alloc_pages_current();
+   1)   1.092 us    |  alloc_pages_current();
+   1)   0.925 us    |  alloc_pages_current();
+   1)   0.854 us    |  alloc_pages_current();
+   1)   1.390 us    |  alloc_pages_current();
+   1)   1.102 us    |  alloc_pages_current();
+   1)   0.809 us    |  alloc_pages_current();
+   1)   0.834 us    |  alloc_pages_current();
+   1)   1.762 us    |  alloc_pages_current();
+   1)   0.855 us    |  alloc_pages_current();
+   1)   1.067 us    |  alloc_pages_current();
+   1)   0.763 us    |  alloc_pages_current();
+   1)   0.949 us    |  alloc_pages_current();
+   1)   0.968 us    |  alloc_pages_current();
+   1)   0.960 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.085 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   2.729 us    |  alloc_pages_current();
+   1)   1.133 us    |  alloc_pages_current();
+   1)   0.888 us    |  alloc_pages_current();
+   1)   0.862 us    |  alloc_pages_current();
+   1)   0.976 us    |  alloc_pages_current();
+   1)   0.846 us    |  alloc_pages_current();
+   1)   0.758 us    |  alloc_pages_current();
+   1)   0.389 us    |  alloc_pages_current();
+   1)   0.888 us    |  alloc_pages_current();
+   1)   1.023 us    |  alloc_pages_current();
+   1)   0.918 us    |  alloc_pages_current();
+   1)   0.766 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  Web Con-2768  =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.690 us    |  alloc_pages_current();
+   0)   0.331 us    |  alloc_pages_current();
+   0)   0.276 us    |  alloc_pages_current();
+   0)   0.196 us    |  alloc_pages_current();
+   0)   0.222 us    |  alloc_pages_current();
+   0)   0.226 us    |  alloc_pages_current();
+   0)   0.756 us    |  alloc_pages_current();
+   0)   0.261 us    |  alloc_pages_current();
+   0)   0.294 us    |  alloc_pages_current();
+   0)   0.206 us    |  alloc_pages_current();
+   0)   0.220 us    |  alloc_pages_current();
+   0)   0.234 us    |  alloc_pages_current();
+   0)   0.226 us    |  alloc_pages_current();
+   0)   0.358 us    |  alloc_pages_current();
+   0)   0.214 us    |  alloc_pages_current();
+   0)   0.249 us    |  alloc_pages_current();
+   0)   0.213 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   0.731 us    |  alloc_pages_current();
+   1)   0.317 us    |  alloc_pages_current();
+   1)   0.248 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  kworker-8619 
+ ------------------------------------------
+
+   1)   1.328 us    |  alloc_pages_current();
+   3)   0.496 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  kworker-8619  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   0.960 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>   bash-8571   
+ ------------------------------------------
+
+   0)   2.285 us    |  alloc_pages_current();
+   0)   1.479 us    |  alloc_pages_current();
+   0)   0.727 us    |  alloc_pages_current();
+   0)   0.735 us    |  alloc_pages_current();
+   0)   0.800 us    |  alloc_pages_current();
+   0)   0.804 us    |  alloc_pages_current();
+   0)   1.072 us    |  alloc_pages_current();
+   0)   0.730 us    |  alloc_pages_current();
+   0)   0.763 us    |  alloc_pages_current();
+   0)   0.834 us    |  alloc_pages_current();
+   0)   0.673 us    |  alloc_pages_current();
+   0)   0.652 us    |  alloc_pages_current();
+   0)   4.669 us    |  alloc_pages_current();
+   0)   0.699 us    |  alloc_pages_current();
+   0)   0.724 us    |  alloc_pages_current();
+   0)   0.569 us    |  alloc_pages_current();
+   0)   0.978 us    |  alloc_pages_current();
+   0)   0.684 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  compiz-2038   =>    cat-8882   
+ ------------------------------------------
+
+   2)   1.313 us    |  alloc_pages_current();
+   2)   0.821 us    |  alloc_pages_current();
+   2)   0.793 us    |  alloc_pages_current();
+   2)   2.047 us    |  alloc_pages_current();
+   2)   1.160 us    |  alloc_pages_current();
+   2)   0.817 us    |  alloc_pages_current();
+   2)   0.647 us    |  alloc_pages_current();
+   2)   0.457 us    |  alloc_pages_current();
+   2)   0.369 us    |  alloc_pages_current();
+   2)   0.200 us    |  alloc_pages_current();
+   2)   0.848 us    |  alloc_pages_current();
+   2)   0.517 us    |  alloc_pages_current();
+   2)   0.311 us    |  alloc_pages_current();
+   2)   0.897 us    |  alloc_pages_current();
+   2)   0.772 us    |  alloc_pages_current();
+   2)   0.762 us    |  alloc_pages_current();
+   2)   0.863 us    |  alloc_pages_current();
+   2)   0.785 us    |  alloc_pages_current();
+   2)   0.917 us    |  alloc_pages_current();
+   2)   0.891 us    |  alloc_pages_current();
+   2)   1.198 us    |  alloc_pages_current();
+   2)   1.193 us    |  alloc_pages_current();
+   2)   0.434 us    |  alloc_pages_current();
+   2)   1.369 us    |  alloc_pages_current();
+   2)   0.833 us    |  alloc_pages_current();
+   2)   0.821 us    |  alloc_pages_current();
+   2)   2.991 us    |  alloc_pages_current();
+   2)   1.044 us    |  alloc_pages_current();
+   2)   1.107 us    |  alloc_pages_current();
+   2)   1.051 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>   pool-8883   
+ ------------------------------------------
+
+   1)   0.592 us    |  alloc_pages_current();
+   1)   0.170 us    |  alloc_pages_current();
+   1)   0.293 us    |  alloc_pages_current();
+   2)   1.378 us    |  alloc_pages_current();
+   2)   1.180 us    |  alloc_pages_current();
+   2)   1.193 us    |  alloc_pages_current();
+   1)   0.873 us    |  alloc_pages_current();
+   2)   1.323 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)    cat-8882    =>   gdbus-1867  
+ ------------------------------------------
+
+   2)   1.202 us    |  alloc_pages_current();
+   2)   1.441 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   pool-8883    =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.121 us    |  alloc_pages_current();
+   2)   1.374 us    |  alloc_pages_current();
+   2)   1.183 us    |  alloc_pages_current();
+   2)   1.929 us    |  alloc_pages_current();
+   2)   1.462 us    |  alloc_pages_current();
+   2)   4.362 us    |  alloc_pages_current();
+   2)   1.781 us    |  alloc_pages_current();
+   2)   2.475 us    |  alloc_pages_current();
+   2)   1.762 us    |  alloc_pages_current();
+   2)   1.208 us    |  alloc_pages_current();
+   2)   2.382 us    |  alloc_pages_current();
+   2)   3.115 us    |  alloc_pages_current();
+   2)   1.241 us    |  alloc_pages_current();
+   2)   1.292 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   bash-8571    =>  gnome-t-7207 
+ ------------------------------------------
+
+   0)   1.064 us    |  alloc_pages_current();
+   2)   1.338 us    |  alloc_pages_current();
+   2)   1.454 us    |  alloc_pages_current();
+   2)   1.631 us    |  alloc_pages_current();
+   2)   1.473 us    |  alloc_pages_current();
+   2)   1.151 us    |  alloc_pages_current();
+   2)   1.251 us    |  alloc_pages_current();
+   2)   1.296 us    |  alloc_pages_current();
+   2)   1.241 us    |  alloc_pages_current();
+   2)   1.383 us    |  alloc_pages_current();
+   2)   1.117 us    |  alloc_pages_current();
+   2)   0.957 us    |  alloc_pages_current();
+   2)   0.956 us    |  alloc_pages_current();
+   2)   0.933 us    |  alloc_pages_current();
+   2)   1.019 us    |  alloc_pages_current();
+   1)   0.602 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  gnome-t-7207  =>  Web Con-2768 
+ ------------------------------------------
+
+   0)   0.630 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>  compiz-2038  
+ ------------------------------------------
+
+   3)   1.456 us    |  alloc_pages_current();
+   3)   0.649 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)    cat-8882    =>  kworker-8716 
+ ------------------------------------------
+
+   2)   1.380 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   1.120 us    |  alloc_pages_current();
+   1)   0.655 us    |  alloc_pages_current();
+   1)   0.200 us    |  alloc_pages_current();
+   1)   0.258 us    |  alloc_pages_current();
+   1)   0.189 us    |  alloc_pages_current();
+   1)   0.216 us    |  alloc_pages_current();
+   1)   0.245 us    |  alloc_pages_current();
+   1)   0.492 us    |  alloc_pages_current();
+   1)   0.202 us    |  alloc_pages_current();
+   0)   1.184 us    |  alloc_pages_current();
+   0)   0.301 us    |  alloc_pages_current();
+   2)   2.387 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  jbd2/sd-330  
+ ------------------------------------------
+
+   1)   1.354 us    |  alloc_pages_current();
+   1)   1.081 us    |  alloc_pages_current();
+   2)   1.031 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  kworker-8716  =>  compiz-2038  
+ ------------------------------------------
+
+   2)   0.816 us    |  alloc_pages_current();
+   2)   0.708 us    |  alloc_pages_current();
+   2)   0.536 us    |  alloc_pages_current();
+   2)   0.536 us    |  alloc_pages_current();
+   2)   0.487 us    |  alloc_pages_current();
+   2)   0.597 us    |  alloc_pages_current();
+   2)   0.514 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  Web Con-2768  =>  gnome-t-7207 
+ ------------------------------------------
+
+   0)   0.752 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  jbd2/sd-330   =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.020 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  gnome-t-7207  =>   gdbus-1867  
+ ------------------------------------------
+
+   0)   0.640 us    |  alloc_pages_current();
+   1)   0.601 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  compiz-2038   =>   gdbus-1867  
+ ------------------------------------------
+
+   3)   0.693 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   gdbus-1867   =>  compiz-2038  
+ ------------------------------------------
+
+   0)               |  alloc_pages_current() {
+   0) ! 123.541 us  |  }
+   0)               |  alloc_pages_current() {
+   0) + 93.000 us   |  }
+   0)   0.721 us    |  alloc_pages_current();
+   0)   0.448 us    |  alloc_pages_current();
+   0)   0.402 us    |  alloc_pages_current();
+   0)   0.308 us    |  alloc_pages_current();
+   0)   0.412 us    |  alloc_pages_current();
+   0)   0.423 us    |  alloc_pages_current();
+   0)   0.646 us    |  alloc_pages_current();
+   0)   0.370 us    |  alloc_pages_current();
+   0)   0.439 us    |  alloc_pages_current();
+   0)   1.039 us    |  alloc_pages_current();
+   0)   0.312 us    |  alloc_pages_current();
+   0)   0.481 us    |  alloc_pages_current();
+   0)   0.458 us    |  alloc_pages_current();
+   0)   0.565 us    |  alloc_pages_current();
+   0)   0.433 us    |  alloc_pages_current();
+   0)   0.379 us    |  alloc_pages_current();
+   0)   0.390 us    |  alloc_pages_current();
+   0)   0.597 us    |  alloc_pages_current();
+   0)   0.322 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  compiz-2038   =>    cat-8882   
+ ------------------------------------------
+
+   0)   0.907 us    |  alloc_pages_current();
+   3)   1.066 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)    cat-8882    =>  compiz-2038  
+ ------------------------------------------
+
+   0)               |  alloc_pages_current() {
+   3)   0.889 us    |  alloc_pages_current();
+   0) ! 482.823 us  |  }
+   0)   0.724 us    |  alloc_pages_current();
+   0) + 17.103 us   |  alloc_pages_current();
+   3)   1.728 us    |  alloc_pages_current();
+   0)               |  alloc_pages_current() {
+   0) ! 249.299 us  |  }
+   0)   0.695 us    |  alloc_pages_current();
+   0)   0.850 us    |  alloc_pages_current();
+   0)   0.656 us    |  alloc_pages_current();
+   0)   0.699 us    |  alloc_pages_current();
+   0)   0.713 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  JS Help-2777 
+ ------------------------------------------
+
+   1)   1.025 us    |  alloc_pages_current();
+   1)   0.208 us    |  alloc_pages_current();
+   1)   0.955 us    |  alloc_pages_current();
+   1)   0.133 us    |  alloc_pages_current();
+   1)   0.358 us    |  alloc_pages_current();
+   1)   0.128 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)   gdbus-1867   =>  JS Help-2775 
+ ------------------------------------------
+
+   3)   0.652 us    |  alloc_pages_current();
+   3)   0.155 us    |  alloc_pages_current();
+   3)   0.109 us    |  alloc_pages_current();
+   3)   0.198 us    |  alloc_pages_current();
+   3)   0.119 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  compiz-2038   =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.523 us    |  alloc_pages_current();
+   0)   0.275 us    |  alloc_pages_current();
+   3) + 16.491 us   |  alloc_pages_current();
+   3)   0.247 us    |  alloc_pages_current();
+   3)   0.194 us    |  alloc_pages_current();
+   3)   0.111 us    |  alloc_pages_current();
+   3)   0.141 us    |  alloc_pages_current();
+   3)   0.147 us    |  alloc_pages_current();
+   3)   0.125 us    |  alloc_pages_current();
+   3)   0.224 us    |  alloc_pages_current();
+   3)   0.137 us    |  alloc_pages_current();
+   3)   0.171 us    |  alloc_pages_current();
+   3)   0.108 us    |  alloc_pages_current();
+   3)   0.112 us    |  alloc_pages_current();
+   3)   0.122 us    |  alloc_pages_current();
+   3)   0.207 us    |  alloc_pages_current();
+   3)   0.115 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2777  =>  JS Help-2776 
+ ------------------------------------------
+
+   1)   0.783 us    |  alloc_pages_current();
+   1)   0.159 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>  JS Help-2777 
+ ------------------------------------------
+
+   0)   0.930 us    |  alloc_pages_current();
+   0)   0.296 us    |  alloc_pages_current();
+   0)   0.221 us    |  alloc_pages_current();
+   0)   0.189 us    |  alloc_pages_current();
+   0)   0.118 us    |  alloc_pages_current();
+   0)   0.190 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  compiz-2038   =>  kworker-8716 
+ ------------------------------------------
+
+   2)   1.604 us    |  alloc_pages_current();
+   3)   0.595 us    |  alloc_pages_current();
+   3)   0.172 us    |  alloc_pages_current();
+   3)               |  alloc_pages_current() {
+   3)   0.806 us    |  }
+   3)   0.129 us    |  alloc_pages_current();
+   3)   0.168 us    |  alloc_pages_current();
+   3)   0.104 us    |  alloc_pages_current();
+   3)   0.134 us    |  alloc_pages_current();
+   3)   0.358 us    |  alloc_pages_current();
+   3)   0.177 us    |  alloc_pages_current();
+   3)   0.177 us    |  alloc_pages_current();
+   3)   0.231 us    |  alloc_pages_current();
+   3)   0.176 us    |  alloc_pages_current();
+   3)   0.180 us    |  alloc_pages_current();
+   3)   0.178 us    |  alloc_pages_current();
+   3)   0.210 us    |  alloc_pages_current();
+   3)   0.217 us    |  alloc_pages_current();
+   3)   0.274 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2777  =>    cat-8882   
+ ------------------------------------------
+
+   0)   1.079 us    |  alloc_pages_current();
+   3)   0.403 us    |  alloc_pages_current();
+   3)   0.283 us    |  alloc_pages_current();
+   3)   0.476 us    |  alloc_pages_current();
+   3)   0.200 us    |  alloc_pages_current();
+   3)   0.187 us    |  alloc_pages_current();
+   3) + 10.483 us   |  alloc_pages_current();
+   3)   0.978 us    |  alloc_pages_current();
+   3)   0.311 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)    cat-8882    =>  JS Help-2777 
+ ------------------------------------------
+
+   0)   0.785 us    |  alloc_pages_current();
+   0)   0.163 us    |  alloc_pages_current();
+   0)   0.192 us    |  alloc_pages_current();
+   1)   0.538 us    |  alloc_pages_current();
+   1)   0.187 us    |  alloc_pages_current();
+   1)   0.170 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2777  =>  JS Help-2778 
+ ------------------------------------------
+
+   0)   0.545 us    |  alloc_pages_current();
+   3)   1.024 us    |  alloc_pages_current();
+   3)   0.363 us    |  alloc_pages_current();
+   3)   0.305 us    |  alloc_pages_current();
+   3)   0.267 us    |  alloc_pages_current();
+   3)   0.239 us    |  alloc_pages_current();
+   3)   0.264 us    |  alloc_pages_current();
+   3)   0.210 us    |  alloc_pages_current();
+   3)   0.220 us    |  alloc_pages_current();
+   3)   0.342 us    |  alloc_pages_current();
+   3)   0.249 us    |  alloc_pages_current();
+   3)   0.222 us    |  alloc_pages_current();
+   3)   0.233 us    |  alloc_pages_current();
+   3)   0.225 us    |  alloc_pages_current();
+   3)   0.226 us    |  alloc_pages_current();
+   3)   0.240 us    |  alloc_pages_current();
+   3)   0.219 us    |  alloc_pages_current();
+   3)   0.227 us    |  alloc_pages_current();
+   3)   0.214 us    |  alloc_pages_current();
+   3) + 16.766 us   |  alloc_pages_current();
+   3)   0.253 us    |  alloc_pages_current();
+   3)   0.358 us    |  alloc_pages_current();
+   3)   0.591 us    |  alloc_pages_current();
+   3)   0.230 us    |  alloc_pages_current();
+   1)   1.595 us    |  alloc_pages_current();
+   1)   0.364 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  JS Help-2776  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.231 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)  JS Help-2778  =>   gdbus-1867  
+ ------------------------------------------
+
+   0)   0.875 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)   gdbus-1867   =>  gnome-t-7207 
+ ------------------------------------------
+
+   1)   1.009 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  kworker-8716  =>  compiz-2038  
+ ------------------------------------------
+
+   2)   1.337 us    |  alloc_pages_current();
+   2)   0.520 us    |  alloc_pages_current();
+   2)   0.748 us    |  alloc_pages_current();
+   2)   0.666 us    |  alloc_pages_current();
+ ------------------------------------------
+   3)  JS Help-2775  =>  Web Con-2768 
+ ------------------------------------------
+
+   3)   0.801 us    |  alloc_pages_current();
+   3)   0.259 us    |  alloc_pages_current();
+   0)   1.293 us    |  alloc_pages_current();
+ ------------------------------------------
+   1)  gnome-t-7207  =>   gdbus-1867  
+ ------------------------------------------
+
+   1)   1.155 us    |  alloc_pages_current();
+   1)   1.198 us    |  alloc_pages_current();
+ ------------------------------------------
+   2)  compiz-2038   =>  kworker-8716 
+ ------------------------------------------
+
+   2)   1.077 us    |  alloc_pages_current();
+ ------------------------------------------
+   0)   gdbus-1867   =>    cat-8882   
+ ------------------------------------------
+
+   0)   0.850 us    |  alloc_pages_current();
+   1)   1.232 us    |  alloc_pages_current();
+   1)   0.670 us    |  alloc_pages_current();
